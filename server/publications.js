@@ -1,7 +1,10 @@
-Meteor.publish("foo", function(recordId){
+Meteor.publish("horses", function(recordId){
   if(recordId){
-    return Foo.findOne({_id:recordId});
+    return Patients.findOne({
+      '_id': recordId,
+      'animal.species': "Horse"
+    });
   }else{
-    return Foo.find();    
+    return Patients.find({'animal.species': "Horse"})
   }
 });

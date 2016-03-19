@@ -1,0 +1,34 @@
+<template name="sidebar">
+  <section id="sidebar" class="sidebarMenu">
+
+    <div id="sidebarMenuContents" class="sidebarMenuContents">
+
+        <!-- <div id="usernameLink" class="sidebarMenuItem withLowerBorder">{{getUsername}}</div> -->
+        <div id="homeLink" class="sidebarMenuItem withLowerBorder">Home</div>
+
+        <a id="patientsLink" href="/list/horses">Horses</a>
+        <a id="veterinariansLink" href="/list/veterinarians">Veterinarians</a>
+        <a id="jockeysLink" href="/list/jockeys">Jockeys</a>
+        <a id="ownersLink" href="/list/owners" class="withLowerBorder">Owners</a>
+
+        <a id="patientsLink" href="/list/patients">Patients</a>
+        <a id="practitionersLink" href="/list/practitioners">Practitioners</a>
+        <a id="relatedPersonsLink" href="/list/relatedPersons" class="withLowerBorder">Related Persons</a>
+
+
+        <a id="usersLink" href="/list/users" >Users</a>
+        <a id="myProfileLink" href="/myprofile" class="withLowerBorder">My Profile</a>
+        <a id="themingLink" href="/theming" class="withLowerBorder">Theming</a>
+
+        {{#if currentUser}}
+          <a id="logoutButton" class="withLowerBorder">Logout</a>
+        {{/if}}
+
+        <div id="connectionStatusPanel" class="centered">
+          {{getConnectionStatus}}
+        </div>
+
+
+    </div>
+  </section>
+</template>

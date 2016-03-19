@@ -177,20 +177,34 @@ Meteor.startup(function(){
 
 Meteor.methods({
   'addHorses':function(){
-    if(Foo.find().count() === 0){
+    if(Patients.find().count() === 0){
       console.log("Couldn't find any horses; adding some...");
       derbyHorses.forEach(function(horse){
         var horseRecord = {
-          title: horse.name,
-          description: horse.description,
-          url: horse.url,
-          imageUrl: horse.imageUrl
+          name: [{
+            text: horse.name
+          }],
+          active: true,
+          gender: "male",
+          birthDate: new Date(2015, 5, 1),
+          animal: {
+            species: "Horse"
+          },
+          //description: horse.description,
+          photo: [horse.imageUrl],
+          link: [{
+            url: horse.url
+          }],
+          careProvider: [{
+            display: "Unknown",
+            reference: "unknown"
+          }]
         }
 
-        Foo.insert(horseRecord);
+        Patients.insert(horseRecord);
       });
     }else{
-      console.log("Found " + Foo.find().count() + " horses.");
+      console.log("Found " + Patients.find({'animal.species': "Horse"}).count() + " horses.");
     }
   }
 });

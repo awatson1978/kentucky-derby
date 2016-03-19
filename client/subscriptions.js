@@ -1,3 +1,3 @@
 Session.setDefault("fooId", false);
 
-Meteor.subscribe("foo", Session.get('fooId'));
+Meteor.subscribe("horses", Session.get('fooId'));

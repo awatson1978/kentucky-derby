@@ -7,11 +7,23 @@
 meteor-platform
 autopublish
 insecure
-awatson1978:fonts-helveticas
-fortawesome:fontawesome
-clinical:barcode
-iron:router
 grove:less
 percolate:synced-cron
 
-starrynight:glass-ui
+# clinical boilerplate
+clinical:glass-ui
+clinical:router
+clinical:fonts
+clinical:active-layout
+clinical:active-layout-reset
+clinical:theming
+clinical:theming-ui
+clinical:error-pages
+clinical:auto-resizing
+clinical:keybindings
+clinical:active-entry
+clinical:active-users
+
+clinical:hl7-resource-patient
+clinical:hl7-resource-practitioner
+clinical:hl7-resource-related-person
