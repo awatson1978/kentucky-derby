@@ -1,0 +1,3772 @@
+[
+  {
+    "Horse":"Abiding Star",
+    "Sire":"Uncle Mo",
+    "Dam":"Abiding",
+    "Damsire":"Dynaformer",
+    "Location":"FL",
+    "Trainer":"Edward Allard",
+    "Owner":"Stonehedge LLC",
+    "Breeder":"Gilbert Campbell"
+  },
+  {
+    "Horse":"Active Management",
+    "Sire":"Bernardini",
+    "Dam":"Harissa",
+    "Damsire":"Afleet Alex",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Adelberg",
+    "Sire":"Eskendereya",
+    "Dam":"Timuquana",
+    "Damsire":"Smart Strike",
+    "Location":"FL",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Donald R. Dizney LLC",
+    "Breeder":"Dizney Double Diamond LLC"
+  },
+  {
+    "Horse":"Adios Reality",
+    "Sire":"Tapit",
+    "Dam":"Dream Rush",
+    "Damsire":"Wild Rush",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Stonestreet Stables LLC, Magnier, Susan., Tabor, Michael B. and Smith, Derrick",
+    "Breeder":"Stonestreet Thoroughbred Holdings LLC"
+  },
+  {
+    "Horse":"Admiralty",
+    "Sire":"Trappe Shot",
+    "Dam":"Winning Call",
+    "Damsire":"Deputy Minister",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Juddmonte Farms, Inc.",
+    "Breeder":"Oak Ridge Farm & Fred Allor"
+  },
+  {
+    "Horse":"Adulator",
+    "Sire":"Flatter",
+    "Dam":"Need",
+    "Damsire":"Strong Hope",
+    "Location":"KY",
+    "Trainer":"James Jerkens",
+    "Owner":"Centennial Farms",
+    "Breeder":"Claiborne Farm"
+  },
+  {
+    "Horse":"Adventist",
+    "Sire":"Any Given Saturday",
+    "Dam":"Sharp Minister",
+    "Damsire":"Deputy Minister",
+    "Location":"KY",
+    "Trainer":"Leah Gyarmati",
+    "Owner":"Treadway Racing Stable",
+    "Breeder":"Monticule"
+  },
+  {
+    "Horse":"Air Force Blue",
+    "Sire":"War Front",
+    "Dam":"Chatham",
+    "Damsire":"Maria's Mon",
+    "Location":"KY",
+    "Trainer":"Aidan O'Brien",
+    "Owner":"Tabor, Michael B., Magnier, Mrs. John, and Smith, Derrick",
+    "Breeder":"Stone Farm"
+  },
+  {
+    "Horse":"Air Vice Marshal",
+    "Sire":"War Front",
+    "Dam":"Gold Vault",
+    "Damsire":"Arch",
+    "Location":"KY",
+    "Trainer":"Aidan O'Brien",
+    "Owner":"Tabor, Michael B., Smith, Derrick, Magnier, Mrs. John and Allen, Joseph",
+    "Breeder":"Cherry Valley Farm LLC"
+  },
+  {
+    "Horse":"Airman's Creed",
+    "Sire":"Distorted Humor",
+    "Dam":"Wild Poppy",
+    "Damsire":"El Prado (IRE)",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Bryant H. Prentice III"
+  },
+  {
+    "Horse":"Airoforce",
+    "Sire":"Colonel John",
+    "Dam":"Chocolate Pop",
+    "Damsire":"Cuvee",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"John C. Oxley",
+    "Breeder":"Stewart M. Madison"
+  },
+  {
+    "Horse":"Algenon",
+    "Sire":"Aragorn (IRE)",
+    "Dam":"Alpine Yodel",
+    "Damsire":"Swiss Yodeler",
+    "Location":"KY",
+    "Trainer":"Len Kasmerski",
+    "Owner":"Rozamund Barclay",
+    "Breeder":"Rozamund Barclay"
+  },
+  {
+    "Horse":"All World",
+    "Sire":"Curlin",
+    "Dam":"Marquet Rent",
+    "Damsire":"Marquetry",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Eclipse Thoroughbred Partners",
+    "Breeder":"Town & Country Farms"
+  },
+  {
+    "Horse":"Allaboutaction",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Coolwind",
+    "Damsire":"Forest Wildcat",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Mark Dedomenico LLC, Hollendorfer, Jerry and Todaro, George",
+    "Breeder":"Carhue Investments & Paget Bloodstock"
+  },
+  {
+    "Horse":"Alpha Team",
+    "Sire":"Mineshaft",
+    "Dam":"April Frost",
+    "Damsire":"Dynaformer",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"G. Watts Humphrey Jr & St. George Farm LLC"
+  },
+  {
+    "Horse":"American Dubai",
+    "Sire":"E Dubai",
+    "Dam":"Smash Review",
+    "Damsire":"Bates Motel",
+    "Location":"VA",
+    "Trainer":"Rodney Richards",
+    "Owner":"Richard Keith",
+    "Breeder":"Mr. C. Oliver Iselin III"
+  },
+  {
+    "Horse":"American Freedom",
+    "Sire":"Pulpit",
+    "Dam":"Gotcha Last",
+    "Damsire":"Pleasant Tap",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"Centaur Farms Inc"
+  },
+  {
+    "Horse":"American Pioneer",
+    "Sire":"Awesome Again",
+    "Dam":"Makoma",
+    "Damsire":"Malibu Moon",
+    "Location":"KY",
+    "Trainer":"Wayne Catalano",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"Forging Oaks LLC"
+  },
+  {
+    "Horse":"American Promise",
+    "Sire":"American Lion",
+    "Dam":"Coming Home Queen",
+    "Damsire":"Came Home",
+    "Location":"NY",
+    "Trainer":"Pavel Matejka",
+    "Owner":"Preston Stables LLC and Prestonwood Racing LLC",
+    "Breeder":"Dr. Patricia Saskowski"
+  },
+  {
+    "Horse":"Amis Gizmo",
+    "Sire":"Giant Gizmo",
+    "Dam":"Galloping Ami",
+    "Damsire":"Victory Gallop",
+    "Location":"ON",
+    "Trainer":"Josie Carroll",
+    "Owner":"Dalos",
+    "Breeder":"Tall Oaks Farm"
+  },
+  {
+    "Horse":"Ample Sufficiency",
+    "Sire":"English Channel",
+    "Dam":"Between Raindrops",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Dermot Weld",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"An Khe Pass",
+    "Sire":"Old Fashioned",
+    "Dam":"Castlebrook",
+    "Damsire":"Montbrook",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Fox Hill Farms, Inc.",
+    "Breeder":"Town & Country Farms"
+  },
+  {
+    "Horse":"Annals of Time",
+    "Sire":"Temple City",
+    "Dam":"Lemon Haze",
+    "Damsire":"Distant View",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Monticule"
+  },
+  {
+    "Horse":"Annual Report",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Pension",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Kiaran McLaughlin",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Gainesway Thoroughbreds Ltd"
+  },
+  {
+    "Horse":"Arabian Leopard",
+    "Sire":"Scat Daddy",
+    "Dam":"Antoinette",
+    "Damsire":"Silver Hawk",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Sheikh Mohammed bin Khalifa al Maktoum",
+    "Breeder":"Douglas S. Arnold Jr"
+  },
+  {
+    "Horse":"Arrogate",
+    "Sire":"Unbridled's Song",
+    "Dam":"Bubbler",
+    "Damsire":"Distorted Humor",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Juddmonte Farms, Inc.",
+    "Breeder":"Clearsky Farms"
+  },
+  {
+    "Horse":"Attraction",
+    "Sire":"Blame",
+    "Dam":"Sweet Temptress",
+    "Damsire":"Malibu Moon",
+    "Location":"KY",
+    "Trainer":"Albert Stall, Jr.",
+    "Owner":"Claiborne Farm and Dilschneider, Adele B.",
+    "Breeder":"Claiborne Farm & Adele B. Dilschneider"
+  },
+  {
+    "Horse":"Avast Matey",
+    "Sire":"Birdstone",
+    "Dam":"Pawley Girl",
+    "Damsire":"Not for Love",
+    "Location":"KY",
+    "Trainer":"Ralph Nicks",
+    "Owner":"PHS Racing, LLC",
+    "Breeder":"PHS Racing LLC"
+  },
+  {
+    "Horse":"Awesome Banner",
+    "Sire":"Awesome of Course",
+    "Dam":"Miranda Stands",
+    "Damsire":"Zamindar",
+    "Location":"FL",
+    "Trainer":"Stanley Gold",
+    "Owner":"Jacks or Better Farm, Inc.",
+    "Breeder":"Jacks or Better Farm Inc"
+  },
+  {
+    "Horse":"Awesome Gent",
+    "Sire":"Awesome Again",
+    "Dam":"Pawnee Patti",
+    "Damsire":"Sir Richard Lewis",
+    "Location":"NY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Burning Sands Stable LLC",
+    "Breeder":"Burning Sands Stable LLC"
+  },
+  {
+    "Horse":"Awesome Slew",
+    "Sire":"Awesome Again",
+    "Dam":"Slewfoundmoney",
+    "Damsire":"Seeking the Gold",
+    "Location":"FL",
+    "Trainer":"Edward Plesa, Jr.",
+    "Owner":"Live Oak Plantation",
+    "Breeder":"Live Oak Stud"
+  },
+  {
+    "Horse":"Awesome Speed",
+    "Sire":"Awesome Again",
+    "Dam":"Speedy Escape",
+    "Damsire":"Aptitude",
+    "Location":"KY",
+    "Trainer":"Alan Goldberg",
+    "Owner":"Colts Neck Stables LLC",
+    "Breeder":"Allen Poindexter & Adena Springs"
+  },
+  {
+    "Horse":"Azar",
+    "Sire":"Scat Daddy",
+    "Dam":"Miss Ocean",
+    "Damsire":"Mineshaft",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Alto Racing, LLC",
+    "Breeder":"Mike Connelly"
+  },
+  {
+    "Horse":"Aztec Sense",
+    "Sire":"Street Sense",
+    "Dam":"Aztec Pearl",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Back Togetheragain",
+    "Sire":"Eddington",
+    "Dam":"Together Again",
+    "Damsire":"Johannesburg",
+    "Location":"KY",
+    "Trainer":"Wallace Howard",
+    "Owner":"Joseph Witt",
+    "Breeder":"Joshua Jones"
+  },
+  {
+    "Horse":"Bar None",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Purrfectly",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Richard C. Pell",
+    "Breeder":"Richard D. Holder"
+  },
+  {
+    "Horse":"Battery",
+    "Sire":"Bernardini",
+    "Dam":"Flawless Diamond",
+    "Damsire":"Saint Ballado",
+    "Location":"ON",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Harrell Ventures, LLC",
+    "Breeder":"Anderson Farms (Ontario) Inc"
+  },
+  {
+    "Horse":"Battle Tap",
+    "Sire":"Smart Strike",
+    "Dam":"War Echo",
+    "Damsire":"Tapit",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Winchell Thoroughbreds LLC",
+    "Breeder":"Winchell Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Benediction",
+    "Sire":"Pulpit",
+    "Dam":"Twist",
+    "Damsire":"Johannesburg",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"WinStar Farm LLC",
+    "Breeder":"Redmon Farm LLC"
+  },
+  {
+    "Horse":"Big Red Rocket",
+    "Sire":"Summer Bird",
+    "Dam":"See Rock City",
+    "Damsire":"Tapit",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Frank Fletcher Racing Operations, Inc.",
+    "Breeder":"Fredericka V. Caldwell & Mitchell Skilnick"
+  },
+  {
+    "Horse":"Big Squeeze",
+    "Sire":"Lemon Drop Kid",
+    "Dam":"Tattinger Rose",
+    "Damsire":"Menifee",
+    "Location":"KY",
+    "Trainer":"Garry Simms",
+    "Owner":"Travis, Burr J., Morgeson, Jay A., Morgeson, Philip J., Weston, Steve et al.",
+    "Breeder":"Mike G. Rutherford"
+  },
+  {
+    "Horse":"Billy's Kitten",
+    "Sire":"Kitten's Joy",
+    "Dam":"Exceedexpectations",
+    "Damsire":"Tale of the Cat",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Kenneth L. Ramsey & Sarah K. Ramsey"
+  },
+  {
+    "Horse":"Bird of Trey",
+    "Sire":"Birdstone",
+    "Dam":"Take Me Home Too",
+    "Damsire":"Came Home",
+    "Location":"PA",
+    "Trainer":"John Servis",
+    "Owner":"JRita Young Thoroughbreds LLC",
+    "Breeder":"JRita Young Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Bird Song",
+    "Sire":"Unbridled's Song",
+    "Dam":"Bird Town",
+    "Damsire":"Cape Town",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"Marylou Whitney Stables LLC",
+    "Breeder":"Marylou Whitney Stables LLC"
+  },
+  {
+    "Horse":"Bistraya",
+    "Sire":"Haynesfield",
+    "Dam":"Lady Giselle",
+    "Damsire":"Broad Brush",
+    "Location":"LA",
+    "Trainer":"Ricky Agarie",
+    "Owner":"LeeAnn Ohanesian",
+    "Breeder":"Avalon Farms Inc"
+  },
+  {
+    "Horse":"Black Ops",
+    "Sire":"Hard Spun",
+    "Dam":"Rendition",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Rodney Richards",
+    "Owner":"Richard Keith",
+    "Breeder":"G. Watts Humphrey Jr., Susie Keller, Olver & G. Watts Humphrey III"
+  },
+  {
+    "Horse":"Blue Creek (GB)",
+    "Sire":"Street Cry (IRE)",
+    "Dam":"Blue Bunting",
+    "Damsire":"Dynaformer",
+    "Location":"GB",
+    "Trainer":"Charles Appleby",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Darley"
+  },
+  {
+    "Horse":"Boalt Hall",
+    "Sire":"Scat Daddy",
+    "Dam":"Motion to Compel",
+    "Damsire":"Yonaguska",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Stonestreet Stables LLC",
+    "Breeder":"Bend Or Thoroughbreds USA"
+  },
+  {
+    "Horse":"Bodestar",
+    "Sire":"Exchange Rate",
+    "Dam":"Red Piano",
+    "Damsire":"Red Ransom",
+    "Location":"KY",
+    "Trainer":"Michael Tomlinson",
+    "Owner":"Suzanne Stables",
+    "Breeder":"Suzanne Stables"
+  },
+  {
+    "Horse":"Bombard",
+    "Sire":"War Front",
+    "Dam":"Witty",
+    "Damsire":"Distorted Humor",
+    "Location":"KY",
+    "Trainer":"Richard Mandella",
+    "Owner":"Raydelz Stable",
+    "Breeder":"Raydelz Stable"
+  },
+  {
+    "Horse":"Bombs Away",
+    "Sire":"Smart Strike",
+    "Dam":"Protesting",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Claude McGaughey III",
+    "Owner":"Phipps Stable",
+    "Breeder":"Phipps Stable"
+  },
+  {
+    "Horse":"Brody's Cause",
+    "Sire":"Giant's Causeway",
+    "Dam":"Sweet Breanna",
+    "Damsire":"Sahm",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"Albaugh Family Stable",
+    "Breeder":"Gabriel Duignan, William Arvin Jr. & Petaluma Bloodstock"
+  },
+  {
+    "Horse":"Butler Field",
+    "Sire":"Malibu Moon",
+    "Dam":"Wasted Tears",
+    "Damsire":"Najran",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Woodford Racing LLC",
+    "Breeder":"Bart Evans & Stonehaven Steadings"
+  },
+  {
+    "Horse":"Cadeyrn",
+    "Sire":"Malibu Moon",
+    "Dam":"Dream Street",
+    "Damsire":"Tale of the Cat",
+    "Location":"KY",
+    "Trainer":"Jeremiah Englehart",
+    "Owner":"Tom O'Grady",
+    "Breeder":"T. F. VanMeter, Gaines-Gentry Throughbreds & Fox Strauss"
+  },
+  {
+    "Horse":"Can't Remember",
+    "Sire":"Misremembered",
+    "Dam":"Stormy Kristine",
+    "Damsire":"Storm Creek",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Gary Broad",
+    "Breeder":"Richard J. Forbush & The Misremembered Syndicate"
+  },
+  {
+    "Horse":"Candy My Boy",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Runaway Rosie",
+    "Damsire":"Include",
+    "Location":"KY",
+    "Trainer":"Roger Brueggemann",
+    "Owner":"Frank Mancari",
+    "Breeder":"Craig B. Singer"
+  },
+  {
+    "Horse":"Cape Nelo",
+    "Sire":"Cape Blanco (IRE)",
+    "Dam":"Misinjennuous",
+    "Damsire":"Tapit",
+    "Location":"KY",
+    "Trainer":"Michael Curtis",
+    "Owner":"John Bochis",
+    "Breeder":"Rino Ungaro"
+  },
+  {
+    "Horse":"Cards of Stone",
+    "Sire":"Bustin Stones",
+    "Dam":"Shuffle the Deck",
+    "Damsire":"High Yield",
+    "Location":"NY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Highclere America, McConnell Racing Stable, Wachtel Stable, and Bilinski, D.",
+    "Breeder":"Roddy Valente & Thomas Lemme"
+  },
+  {
+    "Horse":"Caribbean",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Soloing",
+    "Damsire":"Runaway Groom",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Eclipse Thoroughbred Partners and Barber, Gary",
+    "Breeder":"Mill Ridge Farm LTD & NATO"
+  },
+  {
+    "Horse":"Casigordo",
+    "Sire":"Arch",
+    "Dam":"Leonor Fini (IRE)",
+    "Damsire":"Peintre Celebre",
+    "Location":"NY",
+    "Trainer":"Roderick Rodgriguez",
+    "Owner":"J. Stables (Guerrero)",
+    "Breeder":"Gallaghers Stud"
+  },
+  {
+    "Horse":"Catapult",
+    "Sire":"Kitten's Joy",
+    "Dam":"Gata Bella",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Woodford Racing, LLC",
+    "Breeder":"Breffni Farm"
+  },
+  {
+    "Horse":"Charmed Victory",
+    "Sire":"Flatter",
+    "Dam":"American Victory",
+    "Damsire":"Victory Gallop",
+    "Location":"MD",
+    "Trainer":"Rodney Jenkins",
+    "Owner":"Hillwood Stable LLC and Golden, Richard L.",
+    "Breeder":"Sycamore Hall Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Cherry Wine",
+    "Sire":"Paddy O'Prado",
+    "Dam":"C.S. Royce",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"Pacella, William and Jones, Jr., Frank L.",
+    "Breeder":"Pacella Racing, Frank L. Jones Jr., Frank Shoop"
+  },
+  {
+    "Horse":"Classic Ride",
+    "Sire":"Fusaichi Pegasus",
+    "Dam":"Morgan's Gold",
+    "Damsire":"Touch Gold",
+    "Location":"GA",
+    "Trainer":"Bobby Barnett",
+    "Owner":"Dennis Morgan",
+    "Breeder":"Dennis Ralph Morgan"
+  },
+  {
+    "Horse":"Classy Bird",
+    "Sire":"Birdstone",
+    "Dam":"Classy Aly",
+    "Damsire":"Sky Classic",
+    "Location":"LA",
+    "Trainer":"Lonnie Briley",
+    "Owner":"Norman Stables, LLC",
+    "Breeder":"Allen Guillotte Jr."
+  },
+  {
+    "Horse":"Clear the Way",
+    "Sire":"Fort Prado",
+    "Dam":"Dotted Swiss",
+    "Damsire":"Swiss Yodeler",
+    "Location":"KY",
+    "Trainer":"Philip D'Amato",
+    "Owner":"Fanticola, Anthony and Scardino, Joseph",
+    "Breeder":"Richard Forbush"
+  },
+  {
+    "Horse":"Coach Q",
+    "Sire":"Super Saver",
+    "Dam":"Quiet Kim",
+    "Damsire":"Real Quiet",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Watson, Karl, Pegram, Michael E. and Weitman, Paul",
+    "Breeder":"Winstar Farm LLC"
+  },
+  {
+    "Horse":"Cocked and Loaded",
+    "Sire":"Colonel John",
+    "Dam":"Catch the Moon",
+    "Damsire":"Malibu Moon",
+    "Location":"KY",
+    "Trainer":"Larry Rivelli",
+    "Owner":"Ravin, Richard and Patricia's Hope LLC",
+    "Breeder":"Bob Austin & John Witte"
+  },
+  {
+    "Horse":"Cold Blood",
+    "Sire":"Flatter",
+    "Dam":"Kathy K D",
+    "Damsire":"Saint Ballado",
+    "Location":"KY",
+    "Trainer":"Enrique Sanchez",
+    "Owner":"Rontos Racing Stable Corp.",
+    "Breeder":"Dr. & Mrs. Walter Zent & Tony Ho"
+  },
+  {
+    "Horse":"Collected",
+    "Sire":"City Zip",
+    "Dam":"Helena Bay (GB)",
+    "Damsire":"Johannesburg",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Speedway Stable LLC",
+    "Breeder":"Runnymede Farm Inc & Peter Callahan"
+  },
+  {
+    "Horse":"Collective Wisdom",
+    "Sire":"Quiet American",
+    "Dam":"Toccet Over",
+    "Damsire":"Toccet",
+    "Location":"FL",
+    "Trainer":"Michael Dilger",
+    "Owner":"Hick Stead Farm, Hannon, Chris and Hannon, Nicki",
+    "Breeder":"Hickstead Farm"
+  },
+  {
+    "Horse":"Colonel Dan",
+    "Sire":"Colonel John",
+    "Dam":"Balmy",
+    "Damsire":"Salt Lake",
+    "Location":"KY",
+    "Trainer":"Wesley Hawley",
+    "Owner":"Daniel Whitlow",
+    "Breeder":"Doug Cauthen & Casner Racing LP"
+  },
+  {
+    "Horse":"Commend",
+    "Sire":"War Front",
+    "Dam":"Praise",
+    "Damsire":"Mr. Prospector",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"Claiborne Farm and Dilschneider, Adele B.",
+    "Breeder":"Claiborne Farm & Adele B. Dilschneider"
+  },
+  {
+    "Horse":"Condominium",
+    "Sire":"Tiznow",
+    "Dam":"Garden Distric",
+    "Damsire":"Dixie Union",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Baker, Robert C. and Mack, William L.",
+    "Breeder":"Lochlow Farm"
+  },
+  {
+    "Horse":"Conquest Big E",
+    "Sire":"Tapit",
+    "Dam":"Seeinsbelieven",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"Gainesway Thoroughbreds Ltd"
+  },
+  {
+    "Horse":"Conquest Daddyo",
+    "Sire":"Scat Daddy",
+    "Dam":"Hanginbyamoment",
+    "Damsire":"Thunder Gulch",
+    "Location":"ON",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"James Everatt, Janeane Everatt & Arika Everatt-Meeuse"
+  },
+  {
+    "Horse":"Conquest Harlequin",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Time for a Crown",
+    "Damsire":"Time for a Change",
+    "Location":"FL",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"Prince Farm"
+  },
+  {
+    "Horse":"Conquest Streetwar",
+    "Sire":"Street Cry (IRE)",
+    "Dam":"Never is a Promise",
+    "Damsire":"Capote",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"SF Bloodstock"
+  },
+  {
+    "Horse":"Conquest Superstar",
+    "Sire":"Uncle Mo",
+    "Dam":"Being Anna",
+    "Damsire":"Aldebaran",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"Hare Forest Farm LTD"
+  },
+  {
+    "Horse":"Conquest Windycity",
+    "Sire":"Tiznow",
+    "Dam":"Lasting Appeal",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Conquest Stables, LLC",
+    "Breeder":"Winstar Farm LLC"
+  },
+  {
+    "Horse":"Cotton Town",
+    "Sire":"Hat Trick (JPN)",
+    "Dam":"Cotton Club Ballet",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Calumet Farm",
+    "Breeder":"Runnymede Farm Inc & The Peter J. Callahan Revocable Trust"
+  },
+  {
+    "Horse":"Creator",
+    "Sire":"Tapit",
+    "Dam":"Morena (Per)",
+    "Damsire":"Privately Held",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"WinStar Farm LLC",
+    "Breeder":"Mt. Brilliant Broodmares I LLC"
+  },
+  {
+    "Horse":"Crescent Drive",
+    "Sire":"Flower Alley",
+    "Dam":"Patience Drive",
+    "Damsire":"Pulpit",
+    "Location":"KY",
+    "Trainer":"Darwin Banach",
+    "Owner":"John Stephen McDonald",
+    "Breeder":"Eugene Melnyk"
+  },
+  {
+    "Horse":"Cupid",
+    "Sire":"Tapit",
+    "Dam":"Pretty 'n Smart",
+    "Damsire":"Beau Genius",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Tabor, Michael B., Magnier, Mrs. John, and Smith, Derrick",
+    "Breeder":"JKG Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Curlin Rules",
+    "Sire":"Curlin",
+    "Dam":"Awe That",
+    "Damsire":"Boundry",
+    "Location":"KY",
+    "Trainer":"John Sadler",
+    "Owner":"Hronis Racing LLC",
+    "Breeder":"W. S. Farish"
+  },
+  {
+    "Horse":"Cutacorner",
+    "Sire":"Even the Score",
+    "Dam":"Pathologist",
+    "Damsire":"Gone West",
+    "Location":"KY",
+    "Trainer":"Jack Van Berg",
+    "Owner":"Kay Stillman",
+    "Breeder":"Millennium Farms"
+  },
+  {
+    "Horse":"Danebury",
+    "Sire":"Super Saver",
+    "Dam":"That's Ok",
+    "Damsire":"Not for Love",
+    "Location":"NY",
+    "Trainer":"Eddie Kenneally",
+    "Owner":"Kildare Stud and Bloodstock Management Stable",
+    "Breeder":"Eaton & Thorne Inc"
+  },
+  {
+    "Horse":"Danzing Candy",
+    "Sire":"Twirling Candy",
+    "Dam":"Talkin and Singing",
+    "Damsire":"Songandaprayer",
+    "Location":"KY",
+    "Trainer":"Clifford Sise, Jr.",
+    "Owner":"Halo Farms, Bashor, Jim and Bashor, Diane",
+    "Breeder":"Halo Farms"
+  },
+  {
+    "Horse":"Dazzling Gem",
+    "Sire":"Misremembered",
+    "Dam":"Dazzler",
+    "Damsire":"Vindication",
+    "Location":"KY",
+    "Trainer":"Brad Cox",
+    "Owner":"Steve Landers Racing LLC",
+    "Breeder":"Lisa Reynolds & Jennifer Feiner"
+  },
+  {
+    "Horse":"Decorated Soldier",
+    "Sire":"Proud Citizen",
+    "Dam":"Lakenhealth",
+    "Damsire":"Colonial Affair",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Eclipse Thoroughbred Partners",
+    "Breeder":"Green Lantern Stables LLC"
+  },
+  {
+    "Horse":"Demonslayer",
+    "Sire":"Tale of the Cat",
+    "Dam":"Impressive Miss",
+    "Damsire":"Matthews Keep",
+    "Location":"CA",
+    "Trainer":"Richard Baltas",
+    "Owner":"Cicero Farms",
+    "Breeder":"Barbara J. Ranck"
+  },
+  {
+    "Horse":"Denman's Call",
+    "Sire":"Northern Afleet",
+    "Dam":"Maggie McGowan",
+    "Damsire":"Salt Lake",
+    "Location":"KY",
+    "Trainer":"Doug O'Neill",
+    "Owner":"W. C. Racing, Verge, Mark W. and Gilman Stables",
+    "Breeder":"W. C. Racing, Milt Gilman & Mark Verge"
+  },
+  {
+    "Horse":"Deserved",
+    "Sire":"Flatter",
+    "Dam":"Just",
+    "Damsire":"Awesome Again",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"Claiborne Farm and Dilschneider, Adele B.",
+    "Breeder":"Claiborne Farm & Adele B. Dilschneider"
+  },
+  {
+    "Horse":"Destin",
+    "Sire":"Giant's Causeway",
+    "Dam":"Dream of Summer",
+    "Damsire":"Siberian Summer",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Twin Creeks Racing Stables, LLC",
+    "Breeder":"James C. Weigel & Taylor Made Stallions Inc"
+  },
+  {
+    "Horse":"Diplodocus",
+    "Sire":"Sky Mesa",
+    "Dam":"Speciality",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Richard Baltas",
+    "Owner":"Bloom Racing Stable LLC (Jeffrey Bloom) and Head of Plains Partners LLC",
+    "Breeder":"Oxley TCF Stallions et all & Robert Losey"
+  },
+  {
+    "Horse":"Direct Message",
+    "Sire":"Bernardini",
+    "Dam":"Tweeter",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Marylou Whitney Stables LLC"
+  },
+  {
+    "Horse":"Discreetly Firm",
+    "Sire":"Discreetly Mine",
+    "Dam":"Sweet Rider",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"William Fires",
+    "Owner":"Xpress Thoroughbreds LLC.",
+    "Breeder":"Courtlandt Farm"
+  },
+  {
+    "Horse":"Discreetness",
+    "Sire":"Discreet Cat",
+    "Dam":"Fondness",
+    "Damsire":"Elusive Quality",
+    "Location":"KY",
+    "Trainer":"William Fires",
+    "Owner":"Xpress Thoroughbreds LLC.",
+    "Breeder":"Trackside Farm & Tenlane Farm"
+  },
+  {
+    "Horse":"Divine Shift",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Bees",
+    "Damsire":"Rahy",
+    "Location":"KY",
+    "Trainer":"Reade Baker",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Dixie Runner",
+    "Sire":"Flatter",
+    "Dam":"Dixie Crisp",
+    "Damsire":"Dixieland Band",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"LaPenta, Robert V., Bridlewood Farm and Sheep Pond Partners",
+    "Breeder":"A. R. Enterprises, Hollendorfer, Todaro & Bluegrass Farm Partners"
+  },
+  {
+    "Horse":"Doctor Mounty",
+    "Sire":"Street Sense",
+    "Dam":"On a Roll",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Claude McGaughey III",
+    "Owner":"Pratt, Larry and Alden, Dave",
+    "Breeder":"G. Watts Humphrey Jr., Susie Keller, Olver & G. Watts Humphrey III"
+  },
+  {
+    "Horse":"Dolphus",
+    "Sire":"Lookin At Lucky",
+    "Dam":"Lotta Kim",
+    "Damsire":"Roar",
+    "Location":"KY",
+    "Trainer":"Joe Sharp",
+    "Owner":"Dede McGehee",
+    "Breeder":"Heaven Trees Farm"
+  },
+  {
+    "Horse":"Don't Be So Salty",
+    "Sire":"Tiz Wonderful",
+    "Dam":"Unbridled Salt",
+    "Damsire":"Unbridled's Song",
+    "Location":"FL",
+    "Trainer":"Gary Contessa",
+    "Owner":"Platinum Seven LLC, Guarino, Dan and Boutelle, Julia C.",
+    "Breeder":"John A. DeVault III & Sue S. DeVault"
+  },
+  {
+    "Horse":"Donegal Moon",
+    "Sire":"Malibu Moon",
+    "Dam":"Perfect Cause",
+    "Damsire":"Giant's Causeway",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Donegal Racing",
+    "Breeder":"Patchen Wilkes Farm LLC"
+  },
+  {
+    "Horse":"Drefong",
+    "Sire":"Gio Ponti",
+    "Dam":"Eltimaas",
+    "Damsire":"Ghostzapper",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Baoma Corporation",
+    "Breeder":"Frederick M. Allor, Michael T. Barrett, Anthony M. Warrender"
+  },
+  {
+    "Horse":"Dressed in Hermes",
+    "Sire":"Hat Trick (JPN)",
+    "Dam":"Elusive Fashion",
+    "Damsire":"Elusive Quality",
+    "Location":"KY",
+    "Trainer":"Janet Armstrong",
+    "Owner":"Budget Stable",
+    "Breeder":"Budget Stables"
+  },
+  {
+    "Horse":"Driven West",
+    "Sire":"Awesome Again",
+    "Dam":"Abba Gold",
+    "Damsire":"Devil's Bag",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"Five-D Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Economic Model",
+    "Sire":"Flatter",
+    "Dam":"Queen of America",
+    "Damsire":"Quiet American",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Claiborne Farm"
+  },
+  {
+    "Horse":"Eddie Haskell",
+    "Sire":"Square Eddie",
+    "Dam":"Teresa Ann",
+    "Damsire":"Boston Harbor",
+    "Location":"CA",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Reddam Racing LLC"
+  },
+  {
+    "Horse":"Ekati Wildcat",
+    "Sire":"Tale of Ekati",
+    "Dam":"Danish Wildcat",
+    "Damsire":"Danehill",
+    "Location":"KY",
+    "Trainer":"Roger Attfield",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"El Charro",
+    "Sire":"Put It Back",
+    "Dam":"Fairy Valley",
+    "Damsire":"Dixieland Band",
+    "Location":"FL",
+    "Trainer":"David Jacobson",
+    "Owner":"Golden Legacy Stable LLC",
+    "Breeder":"Cherie M. Abner & Michael A. Bossio"
+  },
+  {
+    "Horse":"Emoji Man",
+    "Sire":"Quality Road",
+    "Dam":"Social Scene",
+    "Damsire":"Tabasco Cat",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"John Mulholland, Martha Jane Mulholland & Pegasus Stud, LLC"
+  },
+  {
+    "Horse":"Engram",
+    "Sire":"Street Hero",
+    "Dam":"Kristy Beethoven",
+    "Damsire":"Kris S.",
+    "Location":"KY",
+    "Trainer":"Ricky Agarie",
+    "Owner":"Cho, Raxon, Elevated Bloodstock, Inc. and Agarie, Ricky",
+    "Breeder":"Myung Kwon Cho"
+  },
+  {
+    "Horse":"Enroute",
+    "Sire":"Bernardini",
+    "Dam":"Dubai Belle",
+    "Damsire":"Mr. Prospector",
+    "Location":"KY",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Darley"
+  },
+  {
+    "Horse":"Eric the Trojan",
+    "Sire":"More Than Ready",
+    "Dam":"Catchofthecentury",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Peter Miller",
+    "Owner":"Rockingham Ranch",
+    "Breeder":"Mike Abraham"
+  },
+  {
+    "Horse":"Esposito",
+    "Sire":"Ghostzapper",
+    "Dam":"Money My Honey",
+    "Damsire":"Red Bullet",
+    "Location":"ON",
+    "Trainer":"Thomas Proctor",
+    "Owner":"Chartwell Partnership",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Eternal Bird",
+    "Sire":"Tiznow",
+    "Dam":"Bird Legacy",
+    "Damsire":"Mineshaft",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"Marylou Whitney Stables LLC",
+    "Breeder":"Marylou Whitney Stables LLC"
+  },
+  {
+    "Horse":"Exaggerator",
+    "Sire":"Curlin",
+    "Dam":"Dawn Raid",
+    "Damsire":"Vindication",
+    "Location":"KY",
+    "Trainer":"Keith Desormeaux",
+    "Owner":"Big Chief Racing, LLC, Rocker O Ranch, LLC and Desormeaux, J. Keith",
+    "Breeder":"Joseph B. Murphy"
+  },
+  {
+    "Horse":"Fashionable Freddy",
+    "Sire":"Tiznow",
+    "Dam":"High Button Shoes",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"My Meadowview Farm LLC",
+    "Breeder":"My Meadowview LLC"
+  },
+  {
+    "Horse":"Fellowship",
+    "Sire":"Awesome of Course",
+    "Dam":"Go Girlfriend Go",
+    "Damsire":"Demidoff",
+    "Location":"FL",
+    "Trainer":"Stanley Gold",
+    "Owner":"Jacks or Better Farm, Inc.",
+    "Breeder":"Jacks or Better Farm Inc."
+  },
+  {
+    "Horse":"Fetisov",
+    "Sire":"Smart Strike",
+    "Dam":"Molto Vita",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"John D. Gunther",
+    "Breeder":"John D. Gunther"
+  },
+  {
+    "Horse":"Fish Trappe Road",
+    "Sire":"Trappe Shot",
+    "Dam":"Electric Shock",
+    "Damsire":"Cure the Blues",
+    "Location":"NY",
+    "Trainer":"W. Bret Calhoun",
+    "Owner":"Martin Racing Stable LLC",
+    "Breeder":"Rhapsody Faarm LLC & Jon Davis"
+  },
+  {
+    "Horse":"Flexibility",
+    "Sire":"Bluegrass Cat",
+    "Dam":"Santa Vindi",
+    "Damsire":"Vindication",
+    "Location":"NY",
+    "Trainer":"Chad Brown",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Winstar Farm LLC"
+  },
+  {
+    "Horse":"Flora Dora (f)",
+    "Sire":"First Dude",
+    "Dam":"Aidan",
+    "Damsire":"Dixieland Band",
+    "Location":"FL",
+    "Trainer":"Marialice Coffey",
+    "Owner":"Coffeepot Stables",
+    "Breeder":"Dizney Double Diamond LLC"
+  },
+  {
+    "Horse":"Flying Bullet",
+    "Sire":"Smart Strike",
+    "Dam":"Perfect Sting",
+    "Damsire":"Red Ransom",
+    "Location":"KY",
+    "Trainer":"Dermot Weld",
+    "Owner":"Stronach Stables",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Forevamo",
+    "Sire":"Uncle Mo",
+    "Dam":"Candlelightdinner",
+    "Damsire":"Slew Gin Fizz",
+    "Location":"FL",
+    "Trainer":"Albert Stall, Jr.",
+    "Owner":"Brittlyn Stables",
+    "Breeder":"Ocala Stud"
+  },
+  {
+    "Horse":"Forever Bernardini",
+    "Sire":"Bernardini",
+    "Dam":"Cry and Catch Me",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"Edward Plesa, Jr.",
+    "Owner":"Live Oak Plantation",
+    "Breeder":"Live Oak Stud"
+  },
+  {
+    "Horse":"Forever d'Oro",
+    "Sire":"Medaglia d'Oro",
+    "Dam":"Lemons Forever",
+    "Damsire":"Lemon Drop Kid",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Fort Smith",
+    "Sire":"Scat Daddy",
+    "Dam":"Kit's Girl",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"William Van Meter",
+    "Owner":"Shortleaf Stable, Inc.",
+    "Breeder":"Reiley McDonald"
+  },
+  {
+    "Horse":"Found Money",
+    "Sire":"Square Eddie",
+    "Dam":"Chanel My Belle",
+    "Damsire":"General Meeting",
+    "Location":"CA",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Reddam Racing LLC"
+  },
+  {
+    "Horse":"Foxtrot Charlie",
+    "Sire":"English Channel",
+    "Dam":"Flashy Four",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Dermot Weld",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Frank Conversation",
+    "Sire":"Quality Road",
+    "Dam":"Rushen Heat",
+    "Damsire":"Unusual Heat",
+    "Location":"KY",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Marc Keller"
+  },
+  {
+    "Horse":"Freemark",
+    "Sire":"Smart Strike",
+    "Dam":"Carolyn's Cat",
+    "Damsire":"Forestry",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Stonestreet Stables LLC, Magnier, Susan., Tabor, Michael B. and Smith, Derrick",
+    "Breeder":"Mr. & Mrs. W. K. Warren Jr."
+  },
+  {
+    "Horse":"French Getaway",
+    "Sire":"Giant's Causeway",
+    "Dam":"Modesty Blaise",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Robert Hess, Jr.",
+    "Owner":"Schroeder Farms LLC",
+    "Breeder":"Flaxman Holdings Limited"
+  },
+  {
+    "Horse":"Galileo's Spear (FR)",
+    "Sire":"Galileo (IRE)",
+    "Dam":"Lady Shakespeare",
+    "Damsire":"Theatrical (IRE)",
+    "Location":"FR",
+    "Trainer":"Alain de Royer Dupre",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Ganges",
+    "Sire":"Gio Ponti",
+    "Dam":"Shy Baby",
+    "Damsire":"Out of Place",
+    "Location":"LA",
+    "Trainer":"Pavel Matejka",
+    "Owner":"Preston Stables LLC and Prestonwood Racing LLC",
+    "Breeder":"Neal McFadden"
+  },
+  {
+    "Horse":"General Macarthur",
+    "Sire":"War Front",
+    "Dam":"Imagine (IRE)",
+    "Damsire":"Sadler's Wells",
+    "Location":"KY",
+    "Trainer":"Aidan O'Brien",
+    "Owner":"Nagle, Mrs. David and Magnier, Mrs. John",
+    "Breeder":"Barronstown Stud"
+  },
+  {
+    "Horse":"Get Jets",
+    "Sire":"Scat Daddy",
+    "Dam":"Sunny",
+    "Damsire":"Dixieland Band",
+    "Location":"NY",
+    "Trainer":"Anthony Dutrow",
+    "Owner":"Team D",
+    "Breeder":"Pat Pavlish"
+  },
+  {
+    "Horse":"Gettysburg",
+    "Sire":"Pioneerof the Nile",
+    "Dam":"L.A. Devine",
+    "Damsire":"Pulpit",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"WinStar Farm LLC",
+    "Breeder":"Whisper Hill Farm"
+  },
+  {
+    "Horse":"Giant Trick",
+    "Sire":"Neko Bay",
+    "Dam":"Subterfuge",
+    "Damsire":"Favorite Trick",
+    "Location":"TX",
+    "Trainer":"Jack Van Berg",
+    "Owner":"Jerry Caroom",
+    "Breeder":"Eureka Thoroughbred Farm"
+  },
+  {
+    "Horse":"Gift Box",
+    "Sire":"Twirling Candy",
+    "Dam":"Special Me",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"W. S. Farish",
+    "Breeder":"Machmer Hall, Carrie Brogden & Craig Brogden"
+  },
+  {
+    "Horse":"Gimlet",
+    "Sire":"Lemon Drop Kid",
+    "Dam":"Aurelia",
+    "Damsire":"Danzig",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Eclipse Thoroughbred Partners",
+    "Breeder":"Alexander, Groves & Matz"
+  },
+  {
+    "Horse":"Giopress",
+    "Sire":"Gio Ponti",
+    "Dam":"Empiress",
+    "Damsire":"Empire Maker",
+    "Location":"KY",
+    "Trainer":"Reina Gonzalez",
+    "Owner":"Bresciani, Al, Waterson, Cindy and Waterson, Tom",
+    "Breeder":"J.D. Squires & P. Frank Gardner"
+  },
+  {
+    "Horse":"Glenn Coco",
+    "Sire":"Ghostzapper",
+    "Dam":"Northglen",
+    "Damsire":"St. Jovite",
+    "Location":"ON",
+    "Trainer":"Reade Baker",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Devonleigh Farms"
+  },
+  {
+    "Horse":"Goats Town",
+    "Sire":"Dublin",
+    "Dam":"A.P. Petal",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Good for It",
+    "Sire":"Neko Bay",
+    "Dam":"Our Good Fortune",
+    "Damsire":"Tale of the Cat",
+    "Location":"KY",
+    "Trainer":"Clifford Sise, Jr.",
+    "Owner":"Maria Shontere",
+    "Breeder":"Carpe Diem Stables"
+  },
+  {
+    "Horse":"Governor Malibu",
+    "Sire":"Malibu Moon",
+    "Dam":"Akilina",
+    "Damsire":"Langfuhr",
+    "Location":"NY",
+    "Trainer":"Christophe Clement",
+    "Owner":"Jump Sucker Stable and Oak Bluff Stables",
+    "Breeder":"Richard Leahy Oak Bluff Stables"
+  },
+  {
+    "Horse":"Grand Max",
+    "Sire":"War Front",
+    "Dam":"Magnificent Honour",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Gustavo Delgado",
+    "Owner":"Grupo 7C Racing Stable",
+    "Breeder":"Barronstown Stud"
+  },
+  {
+    "Horse":"Grand Nenuco",
+    "Sire":"Lookin At Lucky",
+    "Dam":"Highshift",
+    "Damsire":"St. Jovite",
+    "Location":"KY",
+    "Trainer":"Gustavo Delgado",
+    "Owner":"Grupo 7C Racing Stable",
+    "Breeder":"Kim Nardelli & Rodney Nardelli"
+  },
+  {
+    "Horse":"Gray Sky",
+    "Sire":"Tapit",
+    "Dam":"Trickski",
+    "Damsire":"Peteski",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Baker, Robert C. and Mack, William L.",
+    "Breeder":"Mike Abraham"
+  },
+  {
+    "Horse":"Great Dane",
+    "Sire":"Awesome Again",
+    "Dam":"Canary Diamond",
+    "Damsire":"Alphabet Soup",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Michael Lund Petersen",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Greenpointcrusader",
+    "Sire":"Bernardini",
+    "Dam":"Ava Knowsthecode",
+    "Damsire":"Cryptoclearance",
+    "Location":"KY",
+    "Trainer":"Dominick Schettino",
+    "Owner":"St. Elias Stable, MeB Racing Stables LLC and Brooklyn Boyz Stables",
+    "Breeder":"Oakbrook Farm"
+  },
+  {
+    "Horse":"Gulf of Mexico",
+    "Sire":"Bernardini",
+    "Dam":"Spice Island",
+    "Damsire":"Tabasco Cat",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Woodford Racing LLC",
+    "Breeder":"Hunter Valley"
+  },
+  {
+    "Horse":"Gun Runner",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Quiet Giant",
+    "Damsire":"Giant's Causeway",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Winchell Thoroughbreds LLC and Three Chimneys Farm",
+    "Breeder":"Besilu Stables LLC"
+  },
+  {
+    "Horse":"Gwynn Oak Park",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Maxine's Hymn",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Michael Trombetta",
+    "Owner":"Meyerhoff, Harry C. and Tom O.",
+    "Breeder":"W. S. Farish & E. J. Hudson Jr. Irrevocable Trust"
+  },
+  {
+    "Horse":"Hammers Vision",
+    "Sire":"Court Vision",
+    "Dam":"Baytree",
+    "Damsire":"Forestry",
+    "Location":"ON",
+    "Trainer":"Brian Lynch",
+    "Owner":"Terry Hamilton",
+    "Breeder":"Donver Stable"
+  },
+  {
+    "Horse":"Hand of Power",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Hand Crafted",
+    "Damsire":"Mineshaft",
+    "Location":"KY",
+    "Trainer":"Ian Wilkes",
+    "Owner":"Lothenbach Stables, Inc.",
+    "Breeder":"W. S. Farish"
+  },
+  {
+    "Horse":"Happy Match",
+    "Sire":"Tiznow",
+    "Dam":"Sumptuous",
+    "Damsire":"Hennessy",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"West Point Thoroughbreds",
+    "Breeder":"Stonestreet Thoroughbred Holdings LLC"
+  },
+  {
+    "Horse":"Hard Hitter",
+    "Sire":"Flatter",
+    "Dam":"Shawl",
+    "Damsire":"Medallist",
+    "Location":"KY",
+    "Trainer":"Linda Rice",
+    "Owner":"Whitehall Stable",
+    "Breeder":"Mr. & Mrs. Leverett S. Miller"
+  },
+  {
+    "Horse":"Hard Study",
+    "Sire":"Big Brown",
+    "Dam":"Hard Call",
+    "Damsire":"Rock Hard Ten",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Paul S. Pompa, Jr.",
+    "Breeder":"Paul Pompa Jr."
+  },
+  {
+    "Horse":"Hardly Home",
+    "Sire":"Hard Spun",
+    "Dam":"Home Rule",
+    "Damsire":"Empire Maker",
+    "Location":"KY",
+    "Trainer":"Claude McGaughey III",
+    "Owner":"Stuart S. Janney, III",
+    "Breeder":"Stuart S. Janney III LLC"
+  },
+  {
+    "Horse":"Harlan Punch",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Indy Punch",
+    "Damsire":"Pulling Punches",
+    "Location":"KY",
+    "Trainer":"Thomas Amoss",
+    "Owner":"Rosemont Farm LLC",
+    "Breeder":"Rosemont Farm LLC"
+  },
+  {
+    "Horse":"Hatter",
+    "Sire":"Medaglia d'Oro",
+    "Dam":"Little Bonnet",
+    "Damsire":"Coronado's Quest",
+    "Location":"KY",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Darley"
+  },
+  {
+    "Horse":"Hawk",
+    "Sire":"Fusaichi Pegasus",
+    "Dam":"Flask",
+    "Damsire":"Maria's Mon",
+    "Location":"KY",
+    "Trainer":"Richard Mandella",
+    "Owner":"Stone Farm and Sutton, Joseph W.",
+    "Breeder":"Stone Farm & Joseph W. Sutton"
+  },
+  {
+    "Horse":"Henry the King",
+    "Sire":"Henrythenavigator",
+    "Dam":"Society Gal",
+    "Damsire":"Linkage",
+    "Location":"KY",
+    "Trainer":"Gregory Sacco",
+    "Owner":"Rising Sun Racing Stables, Inc.",
+    "Breeder":"Kim Nardelli & Rodney Nardelli"
+  },
+  {
+    "Horse":"Highly Prized (GB)",
+    "Sire":"Manduro (GER)",
+    "Dam":"Razzle",
+    "Damsire":"Danzig",
+    "Location":"GB",
+    "Trainer":"Niall Saville",
+    "Owner":"Signal Hill Farms",
+    "Breeder":"Juddmonte Farms LTD"
+  },
+  {
+    "Horse":"Hint of Roses",
+    "Sire":"Tapit",
+    "Dam":"Last Kitten",
+    "Damsire":"Catienus",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Kenneth L. Ramsey & Sarah K. Ramsey"
+  },
+  {
+    "Horse":"Hit It a Bomb",
+    "Sire":"War Front",
+    "Dam":"Liscanna (IRE)",
+    "Damsire":"Sadler's Wells",
+    "Location":"KY",
+    "Trainer":"Aidan O'Brien",
+    "Owner":"Mrs. Evelyn M. Stockwell",
+    "Breeder":"Mrs. E. Stockwell"
+  },
+  {
+    "Horse":"Hoffenheim",
+    "Sire":"Midnight Lute",
+    "Dam":"Circumstance",
+    "Damsire":"Vindication",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Kaleem Shah, Inc.",
+    "Breeder":"Gaines-Gentry Thoroughbreds"
+  },
+  {
+    "Horse":"Hollywood Strike",
+    "Sire":"Smart Strike",
+    "Dam":"Hollywood Story",
+    "Damsire":"Wild Rush",
+    "Location":"KY",
+    "Trainer":"John Shirreffs",
+    "Owner":"George Krikorian",
+    "Breeder":"George Krikorian"
+  },
+  {
+    "Horse":"Hot Item",
+    "Sire":"Tapit",
+    "Dam":"Mamselle Nanette",
+    "Damsire":"Southern Halo",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"Gary & Mary West Stables Inc"
+  },
+  {
+    "Horse":"Huntin'theholidays",
+    "Sire":"Jump Start",
+    "Dam":"Holiday Chills",
+    "Damsire":"Harlan's Holiday",
+    "Location":"PA",
+    "Trainer":"Gerald Brooks",
+    "Owner":"Levengood, Alexander R. and Clark, Ronald",
+    "Breeder":"Horse Shoe Valley Equine"
+  },
+  {
+    "Horse":"I Will Score",
+    "Sire":"Roman Ruler",
+    "Dam":"Grassy Nellie",
+    "Damsire":"Belong to Me",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Hans Poetsch",
+    "Breeder":"Hans Poetsch"
+  },
+  {
+    "Horse":"I. M. Mighty",
+    "Sire":"Saintly Prospect",
+    "Dam":"Pretty Wild Magic",
+    "Damsire":"Pretty Wild",
+    "Location":"PA",
+    "Trainer":"T. Houghton",
+    "Owner":"Lori Lange",
+    "Breeder":"Lori Lange"
+  },
+  {
+    "Horse":"I'malreadythere",
+    "Sire":"Crown of Thorns",
+    "Dam":"Wildfire Ruby",
+    "Damsire":"Wild Event",
+    "Location":"FL",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Melen, Steve, Robertson, Richard A., Taub, Steve and Hollendorfer, Jerry",
+    "Breeder":"Thomas J. Lane DVM"
+  },
+  {
+    "Horse":"Ifyousnoozeyoulose",
+    "Sire":"Wilburn",
+    "Dam":"Imastorming",
+    "Damsire":"Hennessy",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Bluegrass Farms Partners Inc"
+  },
+  {
+    "Horse":"Ima Monster",
+    "Sire":"Delaware Township",
+    "Dam":"Lucy Quatorze",
+    "Damsire":"Louis Quatorze",
+    "Location":"PA",
+    "Trainer":"Adam Phillips",
+    "Owner":"Solange Chadda",
+    "Breeder":"Maui Meadow Farm"
+  },
+  {
+    "Horse":"In Equality",
+    "Sire":"Quality Road",
+    "Dam":"Inish Glora",
+    "Damsire":"Regal Classic",
+    "Location":"KY",
+    "Trainer":"Leah Gyarmati",
+    "Owner":"Treadway Racing Stable",
+    "Breeder":"Robert J. Costigan"
+  },
+  {
+    "Horse":"Inside Straight",
+    "Sire":"Super Saver",
+    "Dam":"Dance Alexa",
+    "Damsire":"Southern Halo",
+    "Location":"NY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"WinStar Farm LLC",
+    "Breeder":"SF Bloodstock"
+  },
+  {
+    "Horse":"Irish",
+    "Sire":"Paddy O'Prado",
+    "Dam":"Class Choice",
+    "Damsire":"Peaks and Valleys",
+    "Location":"KY",
+    "Trainer":"Craig Dollase",
+    "Owner":"West Point Thoroughbreds",
+    "Breeder":"Nursery Place & Robert Manfuso"
+  },
+  {
+    "Horse":"Is Trevor Clever",
+    "Sire":"Tale of the Cat",
+    "Dam":"Long N Lanky",
+    "Damsire":"Cozzene",
+    "Location":"KY",
+    "Trainer":"Peter Miller",
+    "Owner":"Richard C. Pell",
+    "Breeder":"Hickory Tree Farm LLC"
+  },
+  {
+    "Horse":"Isofass",
+    "Sire":"Rodman",
+    "Dam":"Lucky Mama",
+    "Damsire":"El Corredor",
+    "Location":"FL",
+    "Trainer":"Francis Abbott III",
+    "Owner":"DB DOJO LLC",
+    "Breeder":"Woodford Thoroughbreds"
+  },
+  {
+    "Horse":"Isotherm",
+    "Sire":"Lonhro (AUS)",
+    "Dam":"Game for More",
+    "Damsire":"More Than Ready",
+    "Location":"KY",
+    "Trainer":"George Weaver",
+    "Owner":"Matthew Schera",
+    "Breeder":"H. Allen Poindexter"
+  },
+  {
+    "Horse":"It's The Ice (GB)",
+    "Sire":"Sakhee's Secret (GB)",
+    "Dam":"Vodka Shot",
+    "Damsire":"Holy Bull",
+    "Location":"GB",
+    "Trainer":"Philip D'Amato",
+    "Owner":"Little Red Feather Racing",
+    "Breeder":"Mr. & Mrs. R. Newman"
+  },
+  {
+    "Horse":"Its All Relevant",
+    "Sire":"Hard Spun",
+    "Dam":"Ender's Sister",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Dominick Schettino",
+    "Owner":"MeB Racing Stables LLC and Brooklyn Boyz Stables",
+    "Breeder":"Green Lantern Stables LLC"
+  },
+  {
+    "Horse":"Japhir",
+    "Sire":"Giant's Causeway",
+    "Dam":"Twisted Sis",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"George Bolton & Charles Bolton"
+  },
+  {
+    "Horse":"Jay's Way",
+    "Sire":"Gone Astray",
+    "Dam":"Charms Way",
+    "Damsire":"Salt Lake",
+    "Location":"FL",
+    "Trainer":"Jamie Ness",
+    "Owner":"Midwest Thoroughbreds, Inc.",
+    "Breeder":"Jim Davis"
+  },
+  {
+    "Horse":"Jazzy Times",
+    "Sire":"Discreetly Mine",
+    "Dam":"Jazzy Melissa",
+    "Damsire":"Grand Slam",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"RDurham Racing LLC"
+  },
+  {
+    "Horse":"Jess I Am",
+    "Sire":"Eskendereya",
+    "Dam":"Souma",
+    "Damsire":"Mr. Greeley",
+    "Location":"KY",
+    "Trainer":"John Terranova, II",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Zayat Stables LLC"
+  },
+  {
+    "Horse":"John Q. Public",
+    "Sire":"Proud Citizen",
+    "Dam":"Tender Storm",
+    "Damsire":"Honour and Glory",
+    "Location":"KY",
+    "Trainer":"Ian Wilkes",
+    "Owner":"Holy Cow Stable, LLC",
+    "Breeder":"William H. Tite III"
+  },
+  {
+    "Horse":"Journey by Sea",
+    "Sire":"J P's Gusto",
+    "Dam":"Settling Seas",
+    "Damsire":"Stormy Atlantic",
+    "Location":"FL",
+    "Trainer":"Bob Baffert",
+    "Owner":"Dickman Legacy Ranch, LLC",
+    "Breeder":"Brent Fernung & Crystal Fernung"
+  },
+  {
+    "Horse":"Judaman",
+    "Sire":"Macho Uno",
+    "Dam":"All the Colors",
+    "Damsire":"Red Ransom",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"John Pearman"
+  },
+  {
+    "Horse":"Justin Squared",
+    "Sire":"Zensational",
+    "Dam":"Graciously Soft",
+    "Damsire":"Vindication",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Sun Valley Farm"
+  },
+  {
+    "Horse":"Kasseopia (GB)",
+    "Sire":"Showcasing (GB)",
+    "Dam":"Dream Again (GB)",
+    "Damsire":"Medicean (GB)",
+    "Location":"GB",
+    "Trainer":"H. Graham Motion",
+    "Owner":"Team Valor International and Barber, Gary",
+    "Breeder":"Cheveley Park Stud LTD"
+  },
+  {
+    "Horse":"Kelly Tough",
+    "Sire":"Quality Road",
+    "Dam":"What Do I Do",
+    "Damsire":"Two Smart",
+    "Location":"MD",
+    "Trainer":"Edward Plesa, Jr.",
+    "Owner":"Melin, David, Ellman, Leon and Plesa, Laurie",
+    "Breeder":"R. Larry Johnson"
+  },
+  {
+    "Horse":"Kenji's Giant",
+    "Sire":"Giant's Causeway",
+    "Dam":"Love Lock",
+    "Damsire":"Silver Ghost",
+    "Location":"KY",
+    "Trainer":"George Paparodormou",
+    "Owner":"KM Racing Enterprise, Inc.",
+    "Breeder":"Chelston"
+  },
+  {
+    "Horse":"King Kranz",
+    "Sire":"Munnings",
+    "Dam":"Queen Congie",
+    "Damsire":"Henny Hughes",
+    "Location":"KY",
+    "Trainer":"John Terranova, II",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Bob Austin & Alice Austin"
+  },
+  {
+    "Horse":"Kismet's Heels",
+    "Sire":"Tapit",
+    "Dam":"West Coast Swing",
+    "Damsire":"Gone West",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"JSM Equine",
+    "Breeder":"Winstar Farm LLC"
+  },
+  {
+    "Horse":"Kiss Limit",
+    "Sire":"Sky Classic",
+    "Dam":"True Up",
+    "Damsire":"Stephen Got Even",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"William J. Butler",
+    "Breeder":"Jacqueline Gibbons Wammock"
+  },
+  {
+    "Horse":"Knights Key",
+    "Sire":"Giant's Causeway",
+    "Dam":"Lemon Kiss",
+    "Damsire":"Lemon Drop Kid",
+    "Location":"KY",
+    "Trainer":"Steve Hobby",
+    "Owner":"Lieblong, Alex and JoAnn",
+    "Breeder":"Mark Gittins"
+  },
+  {
+    "Horse":"Lani",
+    "Sire":"Tapit",
+    "Dam":"Heavenly Romance (JPN)",
+    "Damsire":"Sunday Silence",
+    "Location":"KY",
+    "Trainer":"Mikio Matsunaga",
+    "Owner":"Yoko Maeda",
+    "Breeder":"North Hills Co Limited"
+  },
+  {
+    "Horse":"Laoban",
+    "Sire":"Uncle Mo",
+    "Dam":"Chattertown",
+    "Damsire":"Speightstown",
+    "Location":"KY",
+    "Trainer":"Eric Guillot",
+    "Owner":"McCormick Racing LLC and Southern Equine Stable LLC",
+    "Breeder":"Respite Farm"
+  },
+  {
+    "Horse":"Latest Craze",
+    "Sire":"Super Saver",
+    "Dam":"Charity Girl",
+    "Damsire":"Pulpit",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"TK Stables LLC, Jose S. Rodarte & Modo Tesio Equine LLC"
+  },
+  {
+    "Horse":"Let Me Go First",
+    "Sire":"Paddy O'Prado",
+    "Dam":"Aspen Mountain",
+    "Damsire":"Chief Seattle",
+    "Location":"KY",
+    "Trainer":"Blane Servis",
+    "Owner":"Hansen, Kendall E. and Servis, Blane",
+    "Breeder":"Spendthrift Farm LLC"
+  },
+  {
+    "Horse":"Let's Meet in Rio",
+    "Sire":"Flatter",
+    "Dam":"Rio Carnival",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Juddmonte Farms, Inc.",
+    "Breeder":"Juddmonte Farms LTD"
+  },
+  {
+    "Horse":"Liam the Charmer",
+    "Sire":"Smart Strike",
+    "Dam":"Charm the Giant (IRE)",
+    "Damsire":"Giant's Causeway",
+    "Location":"KY",
+    "Trainer":"Michael McCarthy",
+    "Owner":"Warren, Jr., Mr. and Mrs. William K.",
+    "Breeder":"Ron McAnally & Deborah McAnally"
+  },
+  {
+    "Horse":"Life Is a Trip",
+    "Sire":"Many Rivers",
+    "Dam":"Tadita",
+    "Damsire":"Indian Charlie",
+    "Location":"CA",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Hollendorfer, Jerry and Janet and Todaro, George",
+    "Breeder":"Jerry Hollendorfer, Janet Hollendorfer & George Todaro"
+  },
+  {
+    "Horse":"Little Mo",
+    "Sire":"Uncle Mo",
+    "Dam":"Motivated Sreva",
+    "Damsire":"Lear Fan",
+    "Location":"KY",
+    "Trainer":"Carlo Vaccarezza",
+    "Owner":"Little Dreams Racing and Screnci, Stephen",
+    "Breeder":"Jayde Inc"
+  },
+  {
+    "Horse":"Lookin for a Kiss",
+    "Sire":"Lookin At Lucky",
+    "Dam":"Blowing Kisses",
+    "Damsire":"Vindication",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"Michael Bruder",
+    "Breeder":"Betz, CoCo Equine, Blackburn, J. Betz, Ramsby & CNHHNK"
+  },
+  {
+    "Horse":"Lost Iron",
+    "Sire":"Flatter",
+    "Dam":"Vanquished",
+    "Damsire":"Empire Maker",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"Clarke, H., Braverman, P., Albstein, A., Murray, T. and Robertson, C.",
+    "Breeder":"Dorothy A. Matz"
+  },
+  {
+    "Horse":"Lubsen",
+    "Sire":"Eskendereya",
+    "Dam":"Secret File",
+    "Damsire":"Smart Strike",
+    "Location":"KY",
+    "Trainer":"Rudy Rodriguez",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Borges Torrealba Holdings Inc"
+  },
+  {
+    "Horse":"Luna de Loco",
+    "Sire":"Malibu Moon",
+    "Dam":"Fancy Prancer",
+    "Damsire":"Bertrando",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Mac Daddy Mac",
+    "Sire":"Put It Back",
+    "Dam":"Abuela Esther (URU)",
+    "Damsire":"Crater (ARG)",
+    "Location":"FL",
+    "Trainer":"Katherine Ritvo",
+    "Owner":"William Dean Reeves",
+    "Breeder":"Stud El Aquila"
+  },
+  {
+    "Horse":"Made of Steel",
+    "Sire":"Warrior's Reward",
+    "Dam":"Imp's Wild",
+    "Damsire":"Wild Gale",
+    "Location":"KY",
+    "Trainer":"Roderick Rodgriguez",
+    "Owner":"J. Stables (Guerrero)",
+    "Breeder":"Woods Edge Farm LLC"
+  },
+  {
+    "Horse":"Magical Mystery",
+    "Sire":"Unbridled's Song",
+    "Dam":"Mystery Gone",
+    "Damsire":"Gone West",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Gary Broad",
+    "Breeder":"Peter E. Blum Thoroughbreds LLC & Unbridled's Song Syndicate"
+  },
+  {
+    "Horse":"Majesto",
+    "Sire":"Tiznow",
+    "Dam":"Unacloud",
+    "Damsire":"Unaccounted For",
+    "Location":"KY",
+    "Trainer":"Gustavo Delgado",
+    "Owner":"Grupo 7C Racing Stable",
+    "Breeder":"Diamond A Racing Corp"
+  },
+  {
+    "Horse":"Marengo Road",
+    "Sire":"Quality Road",
+    "Dam":"Gac's Tomboy",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Michael Trombetta",
+    "Owner":"Meyerhoff, Harry C. and Tom O.",
+    "Breeder":"Haymarket Farm LLC"
+  },
+  {
+    "Horse":"Marqula",
+    "Sire":"Coast Guard",
+    "Dam":"Marquet Formula",
+    "Damsire":"Marquetry",
+    "Location":"WA",
+    "Trainer":"Jeff Bonde",
+    "Owner":"Klein, Alan Phillip, Lebherz, Philip and Meister, Richard",
+    "Breeder":"Jean M.G. Welch"
+  },
+  {
+    "Horse":"Marty Montana",
+    "Sire":"Awesome Again",
+    "Dam":"Holy Blitz",
+    "Damsire":"Holy Bull",
+    "Location":"KY",
+    "Trainer":"Peter Miller",
+    "Owner":"Rockingham Ranch",
+    "Breeder":"SF Bloodstock"
+  },
+  {
+    "Horse":"Master Magician",
+    "Sire":"Tiznow",
+    "Dam":"I'm a Flake",
+    "Damsire":"Mineshaft",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"Mossarosa",
+    "Breeder":"Dixiana Farms LLC"
+  },
+  {
+    "Horse":"Matt King Coal",
+    "Sire":"Cool Coal Man",
+    "Dam":"Donna Marie",
+    "Damsire":"Came Home",
+    "Location":"FL",
+    "Trainer":"Linda Rice",
+    "Owner":"Lady Sheila Stable",
+    "Breeder":"John E. Shaw"
+  },
+  {
+    "Horse":"Memories of Winter",
+    "Sire":"Hard Spun",
+    "Dam":"Memories for Us",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"Anthony Margotta, Jr.",
+    "Owner":"Thoroughbred Investments Fund LLC",
+    "Breeder":"Phillips Racing Partnership"
+  },
+  {
+    "Horse":"Mighty Moses",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Trusten",
+    "Damsire":"Mt. Livermore",
+    "Location":"KY",
+    "Trainer":"Rudy Rodriguez",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Emily Wygod"
+  },
+  {
+    "Horse":"Miles of Humor",
+    "Sire":"Distorted Humor",
+    "Dam":"Miles of Style",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Ralph Nicks",
+    "Owner":"Whisper Hill Farm LLC",
+    "Breeder":"Whisper Hill Farm LLC"
+  },
+  {
+    "Horse":"Mo for the Money",
+    "Sire":"Uncle Mo",
+    "Dam":"Unenchantedevening",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Anthony Dutrow",
+    "Owner":"Lieblong, Alex and JoAnn",
+    "Breeder":"Summer Wind Farm"
+  },
+  {
+    "Horse":"Mo Power",
+    "Sire":"Uncle Mo",
+    "Dam":"Rhiana",
+    "Damsire":"Runaway Groom",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Repole Stable",
+    "Breeder":"Meadow Oaks Farm LLC & Dr. Frank Justice"
+  },
+  {
+    "Horse":"Mo Tom",
+    "Sire":"Uncle Mo",
+    "Dam":"Caroni",
+    "Damsire":"Rubiano",
+    "Location":"KY",
+    "Trainer":"Thomas Amoss",
+    "Owner":"G M B Racing",
+    "Breeder":"Hargus & Sandra Silver & Silver Farm"
+  },
+  {
+    "Horse":"Mohaymen",
+    "Sire":"Tapit",
+    "Dam":"Justwhistledixie",
+    "Damsire":"Dixie Union",
+    "Location":"KY",
+    "Trainer":"Kiaran McLaughlin",
+    "Owner":"Shadwell Stable",
+    "Breeder":"Clearsky Farms"
+  },
+  {
+    "Horse":"Molasses Brown",
+    "Sire":"Big Brown",
+    "Dam":"Crystal Lyric",
+    "Damsire":"El Prado (IRE)",
+    "Location":"KY",
+    "Trainer":"Thomas Clark",
+    "Owner":"Carlson Family LP., Reynolds, Brett and Chang, Jason",
+    "Breeder":"Sunrise Stables LLC & Luke Guida"
+  },
+  {
+    "Horse":"Money Illusion",
+    "Sire":"Big Drama",
+    "Dam":"Samantha O",
+    "Damsire":"Unbridled's Song",
+    "Location":"FL",
+    "Trainer":"Chad Brown",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Blitchton Breeding LLC"
+  },
+  {
+    "Horse":"Monte Man",
+    "Sire":"Custom for Carlos",
+    "Dam":"Sarah's My Angel",
+    "Damsire":"Sutter's Prospect",
+    "Location":"LA",
+    "Trainer":"John Terranova, II",
+    "Owner":"Long Lake Stable LLC and Head of Plains Partners LLC",
+    "Breeder":"Val C. Murrell"
+  },
+  {
+    "Horse":"Moon Gate Warrior",
+    "Sire":"Bernardini",
+    "Dam":"J Z Warrior",
+    "Damsire":"Harlan's Holiday",
+    "Location":"KY",
+    "Trainer":"Philip Bauer",
+    "Owner":"Rigney Racing",
+    "Breeder":"Grousemont Farm"
+  },
+  {
+    "Horse":"Moonlight Drive (ITY)",
+    "Sire":"Red Rocks (IRE)",
+    "Dam":"Tina Donizette (IRE)",
+    "Damsire":"Monsun (GER)",
+    "Location":"ITY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Winner Consulting",
+    "Breeder":"Centro Equino Arcadia SRL"
+  },
+  {
+    "Horse":"Mooose",
+    "Sire":"Pleasantly Perfect",
+    "Dam":"Dancin 'n Groovin",
+    "Damsire":"Dance Master",
+    "Location":"KY",
+    "Trainer":"Luis Jurado",
+    "Owner":"Potter, James, and Potter, Priscilla",
+    "Breeder":"James Potter & Priscilla Potter"
+  },
+  {
+    "Horse":"Mor Spirit",
+    "Sire":"Eskendereya",
+    "Dam":"Im a Dixie Girl",
+    "Damsire":"Dixie Union",
+    "Location":"PA",
+    "Trainer":"Bob Baffert",
+    "Owner":"Michael Lund Petersen",
+    "Breeder":"Elkstone Group LLC"
+  },
+  {
+    "Horse":"More Alex",
+    "Sire":"More Than Ready",
+    "Dam":"Pumpkin Shell",
+    "Damsire":"Lion Heart",
+    "Location":"KY",
+    "Trainer":"Gustavo Delgado",
+    "Owner":"Grupo 7C Racing Stable",
+    "Breeder":"Grapestock LLC"
+  },
+  {
+    "Horse":"Mr. Coker",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Our Khrysty",
+    "Damsire":"Newfoundland",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Steve Beneto",
+    "Breeder":"Blue Heaven Farm"
+  },
+  {
+    "Horse":"Mr. Roary",
+    "Sire":"Scat Daddy",
+    "Dam":"If Angels Sang",
+    "Damsire":"Seattle Slew",
+    "Location":"KY",
+    "Trainer":"George Paparodormou",
+    "Owner":"Kretz Racing LLC",
+    "Breeder":"Judy Hicks & Kathryn Nikkel"
+  },
+  {
+    "Horse":"Mt Veeder",
+    "Sire":"Ghostzapper",
+    "Dam":"Glenbriar Girl",
+    "Damsire":"Gold Case",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Stonestreet Stables and Bolton, George",
+    "Breeder":"Hans Poetsch"
+  },
+  {
+    "Horse":"My Chennai Xpress",
+    "Sire":"Hold Me Back",
+    "Dam":"Pagan Dance",
+    "Damsire":"Valley Crossing",
+    "Location":"VA",
+    "Trainer":"Kenneth McPeek",
+    "Owner":"Buppa Stables",
+    "Breeder":"Mrs. C. Oilver Iselin III"
+  },
+  {
+    "Horse":"My Man Sam",
+    "Sire":"Trappe Shot",
+    "Dam":"Lauren Byrd",
+    "Damsire":"Arch",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Sheep Pond Partners, Newport Stables LLC and Bligh, Jay W.",
+    "Breeder":"Jay W. Bligh"
+  },
+  {
+    "Horse":"Name Changer",
+    "Sire":"Uncle Mo",
+    "Dam":"Cash's Girl",
+    "Damsire":"Northern Afleet",
+    "Location":"KY",
+    "Trainer":"Alan Goldberg",
+    "Owner":"Colts Neck Stables LLC",
+    "Breeder":"Colts Neck Stables LLC"
+  },
+  {
+    "Horse":"Name for the Blame",
+    "Sire":"Blame",
+    "Dam":"Whenthetimeisright",
+    "Damsire":"Devil His Due",
+    "Location":"KY",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Pamplemousse Racing LLC, Keh, Steven and English, Tim",
+    "Breeder":"Taylor Asbury MD"
+  },
+  {
+    "Horse":"Never Gone South",
+    "Sire":"Munnings",
+    "Dam":"Summer Rules",
+    "Damsire":"Perfect Soul (IRE)",
+    "Location":"KY",
+    "Trainer":"Cathal Lynch",
+    "Owner":"M M G Racing Stable",
+    "Breeder":"Bend Or Thoroughbreds USA"
+  },
+  {
+    "Horse":"New York Candy",
+    "Sire":"Sidney's Candy",
+    "Dam":"Reforestation",
+    "Damsire":"Forestry",
+    "Location":"NY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"David S. Berman",
+    "Breeder":"SF Racing LLC"
+  },
+  {
+    "Horse":"Nominal Dollars",
+    "Sire":"Northern Afleet",
+    "Dam":"Double Flyight",
+    "Damsire":"Flying Continental",
+    "Location":"KY",
+    "Trainer":"Albert Stall, Jr.",
+    "Owner":"Klaravich Stables, Inc. and Lawrence, William H.",
+    "Breeder":"Stonehaven Steadings"
+  },
+  {
+    "Horse":"Northwest Tale (f)",
+    "Sire":"Tale of Ekati",
+    "Dam":"Northwest Colors",
+    "Damsire":"Broad Brush",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Nyquist",
+    "Sire":"Uncle Mo",
+    "Dam":"Seeking Gabrielle",
+    "Damsire":"Forestry",
+    "Location":"KY",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Summerhill Farm"
+  },
+  {
+    "Horse":"One More Orman",
+    "Sire":"Istan",
+    "Dam":"Who'sbeeninmybed",
+    "Damsire":"The Daddy",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Mark DeDomenico LLC",
+    "Breeder":"Brereton C. Jones"
+  },
+  {
+    "Horse":"Opportunistic",
+    "Sire":"Sky Mesa",
+    "Dam":"Mona Quita",
+    "Damsire":"El Corredor",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Mark DeDomenico LLC and North American Thoroughbred Horse Company, Inc.",
+    "Breeder":"Sassu LLC, Philip Robertson & Brenda Robertson"
+  },
+  {
+    "Horse":"Oregon",
+    "Sire":"Mizzen Mast",
+    "Dam":"Way to Go",
+    "Damsire":"Gone West",
+    "Location":"KY",
+    "Trainer":"John Shirreffs",
+    "Owner":"Moss, Mr. and Mrs. Jerome S.",
+    "Breeder":"St. George Farm LLC"
+  },
+  {
+    "Horse":"Ossetra",
+    "Sire":"Into Mischief",
+    "Dam":"Tussie",
+    "Damsire":"Kris S.",
+    "Location":"OH",
+    "Trainer":"Bob Baffert",
+    "Owner":"Michael Lund Petersen",
+    "Breeder":"Ryan S. Conboy & Bedell S. Conboy"
+  },
+  {
+    "Horse":"Outwork",
+    "Sire":"Uncle Mo",
+    "Dam":"Nonna Mia",
+    "Damsire":"Empire Maker",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Repole Stable",
+    "Breeder":"Repole Stable Inc"
+  },
+  {
+    "Horse":"Path of David",
+    "Sire":"Istan",
+    "Dam":"Rimini Road",
+    "Damsire":"Dynaformer",
+    "Location":"KY",
+    "Trainer":"Kristin Mulhall",
+    "Owner":"Thrash, Ike, Thrash, Dawn, Alley, Janet and Alley, Sam",
+    "Breeder":"Brereton C. Jones"
+  },
+  {
+    "Horse":"Patton Proud",
+    "Sire":"Eskendereya",
+    "Dam":"Elusive Horizon",
+    "Damsire":"Elusive Quality",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Jerry Durant",
+    "Breeder":"Northwest Farms LLC"
+  },
+  {
+    "Horse":"Percolator",
+    "Sire":"Flashy Bull",
+    "Dam":"Lady Rushmoore",
+    "Damsire":"Wild Rush",
+    "Location":"KY",
+    "Trainer":"John Servis",
+    "Owner":"Main Line Racing Stable and Joshtylane Farm",
+    "Breeder":"Charles H. Deters"
+  },
+  {
+    "Horse":"Perfect Parade",
+    "Sire":"Parading",
+    "Dam":"Aesculus",
+    "Damsire":"Horse Chestnut (SAF)",
+    "Location":"NY",
+    "Trainer":"Pavel Matejka",
+    "Owner":"Preston Stables LLC",
+    "Breeder":"Anita Nesser"
+  },
+  {
+    "Horse":"Perfect Saint",
+    "Sire":"Pleasantly Perfect",
+    "Dam":"Santa Gertrudis (IRE)",
+    "Damsire":"Machiavellian",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Picadilly Roadster",
+    "Sire":"Ghostzapper",
+    "Dam":"Stormy Dixie",
+    "Damsire":"Stormy Atlantic",
+    "Location":"KY",
+    "Trainer":"Marcus Vitali",
+    "Owner":"Crossed Sabres Farm",
+    "Breeder":"Colts Neck Stables LLC"
+  },
+  {
+    "Horse":"Pinnacle Peak",
+    "Sire":"Yes It's True",
+    "Dam":"Charlie Girl",
+    "Damsire":"Indian Charlie",
+    "Location":"KY",
+    "Trainer":"Michael Stidham",
+    "Owner":"Mark D. Breen",
+    "Breeder":"Mark Breen"
+  },
+  {
+    "Horse":"Pinson",
+    "Sire":"Majestic Warrior",
+    "Dam":"Celtic Song",
+    "Damsire":"Giant's Causeway",
+    "Location":"FL",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Bonnie Heath Farm LLC"
+  },
+  {
+    "Horse":"Pinstripe",
+    "Sire":"High Cotton",
+    "Dam":"My Friend Melini",
+    "Damsire":"Trippi",
+    "Location":"FL",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Eclipse Thoroughbred Partners",
+    "Breeder":"Marion G. Montanari"
+  },
+  {
+    "Horse":"Prime Time Man",
+    "Sire":"Zensational",
+    "Dam":"Baroness Aamoura",
+    "Damsire":"Theatrical (IRE)",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Zayat Stables LLC"
+  },
+  {
+    "Horse":"Prospectus",
+    "Sire":"Uncle Mo",
+    "Dam":"Ready Willing Abel",
+    "Damsire":"More Than Ready",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Siena Farm LLC",
+    "Breeder":"Katierich Farms"
+  },
+  {
+    "Horse":"Quijote",
+    "Sire":"Pomeroy",
+    "Dam":"Soi Distant",
+    "Damsire":"Holy Bull",
+    "Location":"FL",
+    "Trainer":"Thomas Amoss",
+    "Owner":"Midwest Thoroughbreds, Inc.",
+    "Breeder":"Ramiro Rosas Medina"
+  },
+  {
+    "Horse":"Ralis",
+    "Sire":"Square Eddie",
+    "Dam":"Silar Rules",
+    "Damsire":"Ten Most Wanted",
+    "Location":"CA",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Reddam Racing LLC"
+  },
+  {
+    "Horse":"Rally Cry",
+    "Sire":"Uncle Mo",
+    "Dam":"Alienated",
+    "Damsire":"Gone West",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Paul S. Pompa, Jr.",
+    "Breeder":"White Fox Farm"
+  },
+  {
+    "Horse":"Rated R Superstar",
+    "Sire":"Kodiak Kowboy",
+    "Dam":"Wicked Wish",
+    "Damsire":"Gold Case",
+    "Location":"KY",
+    "Trainer":"Kenneth McPeek",
+    "Owner":"Radar Racing LLC",
+    "Breeder":"ThornDale Stable LLC"
+  },
+  {
+    "Horse":"Ready Dancer",
+    "Sire":"More Than Ready",
+    "Dam":"Sweettrickydancer",
+    "Damsire":"Green Dancer",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Let's Go Stable",
+    "Breeder":"St. George Farm LLC & Spurrmont LLC"
+  },
+  {
+    "Horse":"Realm",
+    "Sire":"Haynesfield",
+    "Dam":"Shawness Country",
+    "Damsire":"Chief's Crown",
+    "Location":"VA",
+    "Trainer":"Barclay Tagg",
+    "Owner":"Dattner, Eric, Tagg, Barclay and Astarita, Harry",
+    "Breeder":"Morgan's Ford Farm"
+  },
+  {
+    "Horse":"Remesses",
+    "Sire":"Pioneerof the Nile",
+    "Dam":"Weight No More",
+    "Damsire":"Pure Prize",
+    "Location":"FL",
+    "Trainer":"Bob Baffert",
+    "Owner":"Fog City Stable",
+    "Breeder":"Milan Kosanavich & Machmer Hall"
+  },
+  {
+    "Horse":"Richie the Bull",
+    "Sire":"Benny the Bull",
+    "Dam":"Richiesgirlgotgame",
+    "Damsire":"Five Star Day",
+    "Location":"IL",
+    "Trainer":"Joan Scott",
+    "Owner":"Richie's Usual Suspect",
+    "Breeder":"Richard Ravin & Larry Rivelli"
+  },
+  {
+    "Horse":"Riddler",
+    "Sire":"Harlan's Holiday",
+    "Dam":"Rhapsody Queen",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Siena Farm LLC",
+    "Breeder":"Siena Farms LLC"
+  },
+  {
+    "Horse":"Riker",
+    "Sire":"Include",
+    "Dam":"Desviacion",
+    "Damsire":"Unreal Zeal",
+    "Location":"KY",
+    "Trainer":"Nicholas Gonzalez",
+    "Owner":"Tucci Stables",
+    "Breeder":"Turner Breeders"
+  },
+  {
+    "Horse":"Rolling Tizway",
+    "Sire":"Tizway",
+    "Dam":"Rolling Sea",
+    "Damsire":"Sefapiano",
+    "Location":"KY",
+    "Trainer":"Eddie Kenneally",
+    "Owner":"Chenvert, Brian, Hayes, Christian and Kenneally, Eddie",
+    "Breeder":"Spendthrift Farm LLC"
+  },
+  {
+    "Horse":"Royal Obsession (f)",
+    "Sire":"Tapit",
+    "Dam":"Rote",
+    "Damsire":"Tiznow",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Stonestreet Stables LLC",
+    "Breeder":"Marbat LLC"
+  },
+  {
+    "Horse":"Safe Passage",
+    "Sire":"Congrats",
+    "Dam":"Northern Station",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"William Mott",
+    "Owner":"WinStar Farm LLC",
+    "Breeder":"Tommy Town Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Sail Ahoy",
+    "Sire":"Bernardini",
+    "Dam":"Matlacha Pass",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Claude McGaughey III",
+    "Owner":"Phipps Stable",
+    "Breeder":"Phipps Stable"
+  },
+  {
+    "Horse":"Saint Ignatius",
+    "Sire":"Macho Uno",
+    "Dam":"I Love America",
+    "Damsire":"Quiet American",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"G M B Racing",
+    "Breeder":"Forging Oaks LLC"
+  },
+  {
+    "Horse":"Saltini",
+    "Sire":"Bernardini",
+    "Dam":"Salt Champ (ARG)",
+    "Damsire":"Salt Lake",
+    "Location":"KY",
+    "Trainer":"Richard Mandella",
+    "Owner":"Diamond A Racing Corporation and Vargas, Arturo",
+    "Breeder":"Diamond A Racing Corp & Arturo Vargas"
+  },
+  {
+    "Horse":"Sam Missile (IRE)",
+    "Sire":"Smart Strike",
+    "Dam":"Kitty Matcham (IRE)",
+    "Damsire":"Rock of Gibraltar (IRE)",
+    "Location":"IRE",
+    "Trainer":"James Fanshawe",
+    "Owner":"Apple Tree Stud",
+    "Breeder":"Barronstown Stud"
+  },
+  {
+    "Horse":"Saratoga Mischief",
+    "Sire":"Into Mischief",
+    "Dam":"Pacific Destiny",
+    "Damsire":"Mr. Greeley",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Twin Creeks Racing Stables, LLC",
+    "Breeder":"Meritage LLC & Angelo Ferro"
+  },
+  {
+    "Horse":"Sawyers Mickey",
+    "Sire":"Flatter",
+    "Dam":"Mrs. Debbie M",
+    "Damsire":"War Chant",
+    "Location":"OH",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Whispering Oaks Farm LLC",
+    "Breeder":"Susan King"
+  },
+  {
+    "Horse":"Scholar Athlete",
+    "Sire":"Einstein (BRZ)",
+    "Dam":"Creme Catalan",
+    "Damsire":"El Prado (IRE)",
+    "Location":"ON",
+    "Trainer":"H. Graham Motion",
+    "Owner":"West Point Thoroughbreds",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Sea Wizard",
+    "Sire":"Uncle Mo",
+    "Dam":"Sea Road",
+    "Damsire":"Tale of the Cat",
+    "Location":"KY",
+    "Trainer":"John Mazza",
+    "Owner":"Mac Nichol",
+    "Breeder":"R. Alex Rankin, R. Lenihan & P. Leni"
+  },
+  {
+    "Horse":"Seeking Blame",
+    "Sire":"Blame",
+    "Dam":"Title Seeker",
+    "Damsire":"Monarchos",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Seeking the Soul",
+    "Sire":"Perfect Soul (IRE)",
+    "Dam":"Seeking the Title",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Semper Fortis",
+    "Sire":"Distorted Humor",
+    "Dam":"Rebridled Dreams",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Reddam Racing LLC",
+    "Breeder":"Coffeepot Stable"
+  },
+  {
+    "Horse":"Sensational Ride",
+    "Sire":"Dunkirk",
+    "Dam":"Commendable Girl",
+    "Damsire":"Commendable",
+    "Location":"GA",
+    "Trainer":"Bobby Barnett",
+    "Owner":"Dennis Morgan",
+    "Breeder":"Dennis Ralph Morgan"
+  },
+  {
+    "Horse":"Seymourdini",
+    "Sire":"Bernardini",
+    "Dam":"Graeme Six",
+    "Damsire":"Graeme Hall",
+    "Location":"KY",
+    "Trainer":"Linda Rice",
+    "Owner":"Iris Smith Stable",
+    "Breeder":"Besilu Stables LLC"
+  },
+  {
+    "Horse":"Shagaf",
+    "Sire":"Bernardini",
+    "Dam":"Muhaawara",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Chad Brown",
+    "Owner":"Shadwell Stable",
+    "Breeder":"Shadwell Farm LLC"
+  },
+  {
+    "Horse":"Shakhimat",
+    "Sire":"Lonhro (AUS)",
+    "Dam":"Reggae Rose",
+    "Damsire":"Touch Gold",
+    "Location":"ON",
+    "Trainer":"Roger Attfield",
+    "Owner":"Dan Gale",
+    "Breeder":"Adena Springs"
+  },
+  {
+    "Horse":"Siding Spring",
+    "Sire":"Warrior's Reward",
+    "Dam":"Legendary Peace",
+    "Damsire":"Peace Rules",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"Gabe Grossberg",
+    "Breeder":"Doug Branham & Felicia Branham"
+  },
+  {
+    "Horse":"Sightforsoreeyes",
+    "Sire":"Sightseeing",
+    "Dam":"Rush to Glory",
+    "Damsire":"Wild Rush",
+    "Location":"KY",
+    "Trainer":"Doug Anderson",
+    "Owner":"Wetzel, Arthur and Anderson, Doug",
+    "Breeder":"Richland Hills Stallions LLC & Willow Lane Stable"
+  },
+  {
+    "Horse":"Singleton",
+    "Sire":"Malibu Moon",
+    "Dam":"Miss Audrey",
+    "Damsire":"Grand Slam",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"Mossarosa",
+    "Breeder":"WinQuest Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Smokey Image",
+    "Sire":"Southern Image",
+    "Dam":"Special Smoke",
+    "Damsire":"Free House",
+    "Location":"CA",
+    "Trainer":"Carla Gaines",
+    "Owner":"Irvin Racing Stable",
+    "Breeder":"C-Punch Ranch Inc"
+  },
+  {
+    "Horse":"Snow Fighter",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Aspen Light",
+    "Damsire":"Bernardini",
+    "Location":"KY",
+    "Trainer":"James Lawrence, II",
+    "Owner":"Matthew Schera",
+    "Breeder":"Stonestreet Thoroughbred Holdings LLC"
+  },
+  {
+    "Horse":"Somesville",
+    "Sire":"Malibu Moon",
+    "Dam":"Quiet Harbor",
+    "Damsire":"Silver Deputy",
+    "Location":"KY",
+    "Trainer":"Claude McGaughey III",
+    "Owner":"Stuart S. Janney, III",
+    "Breeder":"Stuart S. Janney III LLC"
+  },
+  {
+    "Horse":"Sorryaboutnothing",
+    "Sire":"Repent",
+    "Dam":"Royal Card",
+    "Damsire":"Chapel Royal",
+    "Location":"FL",
+    "Trainer":"Doug O'Neill",
+    "Owner":"Fog City Stable, RAP Racing, ERJ Racing, LLC and Dave Kenney",
+    "Breeder":"Woodford Thoroughbreds"
+  },
+  {
+    "Horse":"Sound the Horns",
+    "Sire":"Include",
+    "Dam":"Nancy G.",
+    "Damsire":"Fusaichi Pegasus",
+    "Location":"KY",
+    "Trainer":"H. Graham Motion",
+    "Owner":"West Point Thoroughbreds",
+    "Breeder":"Elizabeth Southam"
+  },
+  {
+    "Horse":"Southern Pharaoh",
+    "Sire":"Pioneerof the Nile",
+    "Dam":"Miss Special Salsa",
+    "Damsire":"Mr. Greeley",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Calumet Farm",
+    "Breeder":"Dr. J. David Richardson"
+  },
+  {
+    "Horse":"Southside Warrior",
+    "Sire":"Warrior's Reward",
+    "Dam":"Bamba",
+    "Damsire":"Not for Love",
+    "Location":"MD",
+    "Trainer":"Mark Casse",
+    "Owner":"Poston, Bill, Poston, Vicki and Smith, James Brad",
+    "Breeder":"Dark Hollow Farm"
+  },
+  {
+    "Horse":"Southwest Trail",
+    "Sire":"Uncle Mo",
+    "Dam":"Eagle Sound",
+    "Damsire":"Fusaichi Pegasus",
+    "Location":"KY",
+    "Trainer":"Anthony Dutrow",
+    "Owner":"Shortleaf Stable, Inc.",
+    "Breeder":"Gabriel Duignan, Crosshaven Bloodstock & Vision Thoroughbreds"
+  },
+  {
+    "Horse":"Speed Check",
+    "Sire":"Point Given",
+    "Dam":"Accelero",
+    "Damsire":"Dynaformer",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Spikes Shirl",
+    "Sire":"Speightstown",
+    "Dam":"Shirl's Soul",
+    "Damsire":"Perfect Soul (IRE)",
+    "Location":"KY",
+    "Trainer":"Dallas Stewart",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Star Hill",
+    "Sire":"Elusive Quality",
+    "Dam":"Padmore",
+    "Damsire":"French Deputy",
+    "Location":"KY",
+    "Trainer":"George Arnold, II",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  },
+  {
+    "Horse":"Start a War",
+    "Sire":"Grand Slam",
+    "Dam":"Jabber Dabber Doo",
+    "Damsire":"Pleasant Tap",
+    "Location":"IL",
+    "Trainer":"W. Bret Calhoun",
+    "Owner":"Knollwood Stables",
+    "Breeder":"Dana Waier Thoroughbreds LLC"
+  },
+  {
+    "Horse":"Stone",
+    "Sire":"Quality Road",
+    "Dam":"Stone Legacy",
+    "Damsire":"Birdstone",
+    "Location":"KY",
+    "Trainer":"Nicholas Zito",
+    "Owner":"Marylou Whitney Stables LLC",
+    "Breeder":"Marylou Whitney Stables LLC"
+  },
+  {
+    "Horse":"Stormin In",
+    "Sire":"Smart Strike",
+    "Dam":"My Miss Storm Cat",
+    "Damsire":"Sea of Secrets",
+    "Location":"KY",
+    "Trainer":"Edward Plesa, Jr.",
+    "Owner":"Live Oak Plantation",
+    "Breeder":"Stonestreet Thoroughbred Holdings LLC"
+  },
+  {
+    "Horse":"Stradivari",
+    "Sire":"Medaglia d'Oro",
+    "Dam":"Bending Strings",
+    "Damsire":"American Chance",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"John D. Gunther",
+    "Breeder":"John D. Gunther"
+  },
+  {
+    "Horse":"Street Vision",
+    "Sire":"Street Sense",
+    "Dam":"Emmy's Storm",
+    "Damsire":"Stormy Atlantic",
+    "Location":"KY",
+    "Trainer":"Mark Glatt",
+    "Owner":"Norman Stables, LLC and Wagner, Cory",
+    "Breeder":"Affirmed Investment Corp"
+  },
+  {
+    "Horse":"Sudden Surprise",
+    "Sire":"Giant Surprise",
+    "Dam":"Ready and Good",
+    "Damsire":"More Than Ready",
+    "Location":"NY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Repole Stable",
+    "Breeder":"Repole Stable Inc"
+  },
+  {
+    "Horse":"Suddenbreakingnews",
+    "Sire":"Mineshaft",
+    "Dam":"Uchitel",
+    "Damsire":"Afleet Alex",
+    "Location":"KY",
+    "Trainer":"Donnie Von Hemel",
+    "Owner":"Samuel F. Henderson",
+    "Breeder":"Branch Equine LLC"
+  },
+  {
+    "Horse":"Sunny Ridge",
+    "Sire":"Holy Bull",
+    "Dam":"Lignum Vitae",
+    "Damsire":"Songandaprayer",
+    "Location":"NJ",
+    "Trainer":"Jason Servis",
+    "Owner":"Dennis A. Drazin",
+    "Breeder":"Dennis Drazin"
+  },
+  {
+    "Horse":"Surgical Strike",
+    "Sire":"Red Giant",
+    "Dam":"Preemptive Attack",
+    "Damsire":"Smart Strike",
+    "Location":"KY",
+    "Trainer":"Ben Coleman",
+    "Owner":"Seltzer, Edward A. and Anderson, Beverly S.",
+    "Breeder":"Edward A. Seltzer & Beverly Anderson"
+  },
+  {
+    "Horse":"Swagger Jagger",
+    "Sire":"Crown of Thorns",
+    "Dam":"Magical Mist",
+    "Damsire":"Congaree",
+    "Location":"FL",
+    "Trainer":"Michael Maker",
+    "Owner":"Warner Thoroughbreds, Lewis, III, Lewis, Setzer, Setzer et al.",
+    "Breeder":"Woodford Thoroughbreds"
+  },
+  {
+    "Horse":"Swipe",
+    "Sire":"Birdstone",
+    "Dam":"Avalanche Lily",
+    "Damsire":"Grand Slam",
+    "Location":"KY",
+    "Trainer":"Keith Desormeaux",
+    "Owner":"Big Chief Racing, LLC, Fizzy Racing LLC, Rocker O Ranch, LLC, Desormeaux et al.",
+    "Breeder":"Lou Oppenheim"
+  },
+  {
+    "Horse":"Synchrony",
+    "Sire":"Tapit",
+    "Dam":"Brownie Points",
+    "Damsire":"Forest Wildcat",
+    "Location":"KY",
+    "Trainer":"Donnie Von Hemel",
+    "Owner":"Pin Oak Stable",
+    "Breeder":"Pin Oak Stud LLC"
+  },
+  {
+    "Horse":"Tale of Mist",
+    "Sire":"Tale of Ekati",
+    "Dam":"Settling Mist",
+    "Damsire":"Pleasant Colony",
+    "Location":"KY",
+    "Trainer":"Barclay Tagg",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Tale of S'avall",
+    "Sire":"Tale of Ekati",
+    "Dam":"S'Avall",
+    "Damsire":"Awesome Again",
+    "Location":"KY",
+    "Trainer":"Barclay Tagg",
+    "Owner":"Charles E. Fipke",
+    "Breeder":"Charles Fipke"
+  },
+  {
+    "Horse":"Tally",
+    "Sire":"Tale of Ekati",
+    "Dam":"Charlie Papa",
+    "Damsire":"Indian Charlie",
+    "Location":"KY",
+    "Trainer":"Pavel Matejka",
+    "Owner":"Preston Stables LLC",
+    "Breeder":"Susan M. Forrester & 4M Ranch"
+  },
+  {
+    "Horse":"Tarpon Bay Road",
+    "Sire":"Tapit",
+    "Dam":"Pretty Prolific",
+    "Damsire":"Lion Heart",
+    "Location":"KY",
+    "Trainer":"James Baker",
+    "Owner":"Tom R. Walters",
+    "Breeder":"Tom Walters"
+  },
+  {
+    "Horse":"Tasit",
+    "Sire":"Tapit",
+    "Dam":"Fantasia (GB)",
+    "Damsire":"Sadler's Wells",
+    "Location":"PA",
+    "Trainer":"Michael Matz",
+    "Owner":"Augustin Stable",
+    "Breeder":"George Strawbridge Jr."
+  },
+  {
+    "Horse":"Tathqeef",
+    "Sire":"Tapit",
+    "Dam":"Foxy Danseur",
+    "Damsire":"Mr. Greeley",
+    "Location":"KY",
+    "Trainer":"John Gosden",
+    "Owner":"Shadwell Stable",
+    "Breeder":"Clearsky Farms"
+  },
+  {
+    "Horse":"Ten Blessings",
+    "Sire":"Smart Strike",
+    "Dam":"Indian Blessing",
+    "Damsire":"Indian Charlie",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Earnhardt III, Patti and Hal J.",
+    "Breeder":"Hal Earnhardt"
+  },
+  {
+    "Horse":"That Makes Sense",
+    "Sire":"Street Sense",
+    "Dam":"Useewhatimsaying",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Baker, Robert C. and Mack, William L.",
+    "Breeder":"Equine Equity Partners LLC"
+  },
+  {
+    "Horse":"The Big Mo",
+    "Sire":"Uncle Mo",
+    "Dam":"Gentle Words",
+    "Damsire":"Bertrando",
+    "Location":"ON",
+    "Trainer":"Anthony Dutrow",
+    "Owner":"Lieblong, Alex and JoAnn",
+    "Breeder":"Josham Farms Limited"
+  },
+  {
+    "Horse":"The Chinaman",
+    "Sire":"Haynesfield",
+    "Dam":"Bearusa",
+    "Damsire":"Precise End",
+    "Location":"KY",
+    "Trainer":"Peter Miller",
+    "Owner":"Rockingham Ranch",
+    "Breeder":"Bill Adair & Phyliss Adair"
+  },
+  {
+    "Horse":"The Last Rep",
+    "Sire":"Pleasantly Perfect",
+    "Dam":"Penne Ala Capaese",
+    "Damsire":"Unbridled",
+    "Location":"KY",
+    "Trainer":"Jose Gonzalez, Jr.",
+    "Owner":"Kenneth Corazza",
+    "Breeder":"Kenneth L. Corazza"
+  },
+  {
+    "Horse":"The Lieutenant",
+    "Sire":"Street Sense",
+    "Dam":"Stage Magic",
+    "Damsire":"Ghostzapper",
+    "Location":"KY",
+    "Trainer":"Michael McCarthy",
+    "Owner":"Warren, Jr., Mr. and Mrs. William K.",
+    "Breeder":"John D. Gunther"
+  },
+  {
+    "Horse":"Thirdhalf",
+    "Sire":"Birdstone",
+    "Dam":"Half a Surprise",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Gary Mandella",
+    "Owner":"Wertheimer and Frere",
+    "Breeder":"Wertheimer et Frere"
+  },
+  {
+    "Horse":"Thunder Pass",
+    "Sire":"Street Sense",
+    "Dam":"Mari's Thunder",
+    "Damsire":"Thunder Gulch",
+    "Location":"KY",
+    "Trainer":"Michael Trombetta",
+    "Owner":"Meyerhoff, Harry C. and Tom O.",
+    "Breeder":"B. Flay Thoroughbreds"
+  },
+  {
+    "Horse":"Time Will Tell",
+    "Sire":"Malibu Moon",
+    "Dam":"What Time Is It",
+    "Damsire":"Partner's Hero",
+    "Location":"MD",
+    "Trainer":"Jena Antonucci",
+    "Owner":"Gallostables",
+    "Breeder":"R. Larry Johnson"
+  },
+  {
+    "Horse":"Tiznoble",
+    "Sire":"Tiznow",
+    "Dam":"Tamboz",
+    "Damsire":"Tapit",
+    "Location":"KY",
+    "Trainer":"Joe Sharp",
+    "Owner":"Dell Ridge Farm LLC",
+    "Breeder":"Dell Ridge Farm LLC"
+  },
+  {
+    "Horse":"Toews On Ice",
+    "Sire":"Archarcharch",
+    "Dam":"Wild Forest Cat",
+    "Damsire":"D'wildcat",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Watson, Karl, Pegram, Michael E. and Weitman, Paul",
+    "Breeder":"Lakland Farm"
+  },
+  {
+    "Horse":"Tom's Ready",
+    "Sire":"More Than Ready",
+    "Dam":"Goodbye Stranger",
+    "Damsire":"Broad Brush",
+    "Location":"PA",
+    "Trainer":"Dallas Stewart",
+    "Owner":"G M B Racing",
+    "Breeder":"Blackstone Farm LLC"
+  },
+  {
+    "Horse":"Torrontes",
+    "Sire":"Macho Uno",
+    "Dam":"Airizon",
+    "Damsire":"Boston Harbor",
+    "Location":"KY",
+    "Trainer":"Kellyn Gorder",
+    "Owner":"Beckett Racing Team and Thornton, David",
+    "Breeder":"Crumbaugh Lane LLC"
+  },
+  {
+    "Horse":"Toughest 'Ombre",
+    "Sire":"Tale of the Cat",
+    "Dam":"True Sensation",
+    "Damsire":"Itaka",
+    "Location":"MD",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"Hickory Plains",
+    "Breeder":"Randy L. Cohen & Alyse L. Cohen"
+  },
+  {
+    "Horse":"Tour de Force",
+    "Sire":"Tiznow",
+    "Dam":"Dream Supreme",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Mark Casse",
+    "Owner":"John C. Oxley",
+    "Breeder":"Kinsman Farm"
+  },
+  {
+    "Horse":"Triple Creek",
+    "Sire":"Hat Trick (JPN)",
+    "Dam":"Lady Lyra",
+    "Damsire":"Storm Creek",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Sanford R. Robertson"
+  },
+  {
+    "Horse":"Trojan Nation",
+    "Sire":"Street Cry (IRE)",
+    "Dam":"Storm Song",
+    "Damsire":"Summer Squall",
+    "Location":"KY",
+    "Trainer":"Patrick Gallagher",
+    "Owner":"Gilbert, Julie and Sones, Aaron",
+    "Breeder":"Dr. Aaron Sones"
+  },
+  {
+    "Horse":"True Solitaire (IRE)",
+    "Sire":"Oasis Dream (GB)",
+    "Dam":"Majestic Silver (IRE)",
+    "Damsire":"Linamix (FR)",
+    "Location":"IRE",
+    "Trainer":"Dermot Weld",
+    "Owner":"Moyglare Stud Farm",
+    "Breeder":"Moyglare Stud Farm LTD"
+  },
+  {
+    "Horse":"Turulu",
+    "Sire":"Eskendereya",
+    "Dam":"Salty Farma",
+    "Damsire":"Salt Lake",
+    "Location":"KY",
+    "Trainer":"Victor Garcia",
+    "Owner":"Juan J. Garcia",
+    "Breeder":"Stonestreet Thoroughbred Holdings LLC"
+  },
+  {
+    "Horse":"Twenty Four Seven",
+    "Sire":"City Zip",
+    "Dam":"Here Comes Amelia",
+    "Damsire":"War Chant",
+    "Location":"KY",
+    "Trainer":"Roger Brueggemann",
+    "Owner":"Midwest Thoroughbreds, Inc.",
+    "Breeder":"Richard Maynard"
+  },
+  {
+    "Horse":"Twirling",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Cat Charmer",
+    "Damsire":"Storm Cat",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Juddmonte Farms, Inc.",
+    "Breeder":"Courtlandt Farm"
+  },
+  {
+    "Horse":"Twizz",
+    "Sire":"Twirling Candy",
+    "Dam":"Lively Ballad",
+    "Damsire":"Saint Ballado",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Warner Thoroughbreds, Lewis, III, Lewis, Setzer, Setzer et al.",
+    "Breeder":"Archie Barnes & Wood Simpson"
+  },
+  {
+    "Horse":"Unbridled Outlaw",
+    "Sire":"Unbridled's Song",
+    "Dam":"Letgomyecho",
+    "Damsire":"Menifee",
+    "Location":"KY",
+    "Trainer":"Dale Romans",
+    "Owner":"Albaugh Family Stable",
+    "Breeder":"Betz, Blackburn, J. Betz, Ramsby & CNHHNK"
+  },
+  {
+    "Horse":"Uncle Guy",
+    "Sire":"Uncle Mo",
+    "Dam":"Dying to Dance",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Rose Hill Farm & Ralph Stroope"
+  },
+  {
+    "Horse":"Uncle Jerry",
+    "Sire":"Uncle Mo",
+    "Dam":"Our Dani",
+    "Damsire":"Homebuilder",
+    "Location":"KY",
+    "Trainer":"Eoin Harty",
+    "Owner":"Harty, Eoin G., Auerbach, Robert and Yarmuth, William",
+    "Breeder":"Eagle Holdings"
+  },
+  {
+    "Horse":"Uncle Lino",
+    "Sire":"Uncle Mo",
+    "Dam":"Haysee",
+    "Damsire":"Orientate",
+    "Location":"KY",
+    "Trainer":"Gary Sherlock",
+    "Owner":"Mansor, Tom, Purple Shamrock Racing and Sherlock, Gary",
+    "Breeder":"JPR Stable LLC"
+  },
+  {
+    "Horse":"Uncle Walter",
+    "Sire":"Uncle Mo",
+    "Dam":"Look for Good",
+    "Damsire":"Unbridled's Song",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Lantern Hill Farm"
+  },
+  {
+    "Horse":"Undeniable U",
+    "Sire":"Red Giant",
+    "Dam":"Naseem",
+    "Damsire":"Point Given",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Mojallali Stables, Inc.",
+    "Breeder":"Mojallali Stables Inc"
+  },
+  {
+    "Horse":"Unexplained",
+    "Sire":"Ghostzapper",
+    "Dam":"Alex's Ali",
+    "Damsire":"Afleet Alex",
+    "Location":"KY",
+    "Trainer":"Chris Richard",
+    "Owner":"Midwest Thoroughbreds, Inc.",
+    "Breeder":"Brandywine Farm & Adena Springs"
+  },
+  {
+    "Horse":"Unified",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Union City",
+    "Damsire":"Dixie Union",
+    "Location":"KY",
+    "Trainer":"James Jerkens",
+    "Owner":"Centennial Farms",
+    "Breeder":"Blue Devil Racing Stable LLC"
+  },
+  {
+    "Horse":"Urban Bourbon",
+    "Sire":"City Zip",
+    "Dam":"Fools in Love",
+    "Damsire":"Not for Love",
+    "Location":"KY",
+    "Trainer":"Eddie Kenneally",
+    "Owner":"Bourbon Lane Stable",
+    "Breeder":"K & G Stables"
+  },
+  {
+    "Horse":"Urlacher",
+    "Sire":"Discreet Cat",
+    "Dam":"Perceive",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Eoin Harty",
+    "Owner":"Godolphin Racing LLC",
+    "Breeder":"Darley"
+  },
+  {
+    "Horse":"Valiant Minister",
+    "Sire":"Candy Ride (ARG)",
+    "Dam":"Spooky Minister",
+    "Damsire":"Deputy Minister",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"Baoma Corporation",
+    "Breeder":"Hill n Dale Equine Holdings Inc"
+  },
+  {
+    "Horse":"Van Damme",
+    "Sire":"Langfuhr",
+    "Dam":"Pacific Jewel",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Robert Gorham",
+    "Owner":"Mast Thoroughbreds LLC",
+    "Breeder":"William B. Harrigan"
+  },
+  {
+    "Horse":"Victory Arch",
+    "Sire":"Archarcharch",
+    "Dam":"Toasty",
+    "Damsire":"Polish Numbers",
+    "Location":"KY",
+    "Trainer":"Scott Geiner",
+    "Owner":"Norman, Mark and Norman Stables LLC",
+    "Breeder":"Dreamtime Stables LLC"
+  },
+  {
+    "Horse":"Virtual Machine",
+    "Sire":"Drosselmeyer",
+    "Dam":"Critikal Reason",
+    "Damsire":"Aptitude",
+    "Location":"KY",
+    "Trainer":"Joe Sharp",
+    "Owner":"Serjeant Equine",
+    "Breeder":"Farfellow Farms LTD"
+  },
+  {
+    "Horse":"Viva La Kid",
+    "Sire":"Lemon Drop Kid",
+    "Dam":"As a Day in June",
+    "Damsire":"Fly So Free",
+    "Location":"KY",
+    "Trainer":"John Servis",
+    "Owner":"Carguys Racing LLC",
+    "Breeder":"John R. Mulholland & Martha Jane Mulholland"
+  },
+  {
+    "Horse":"Vorticity",
+    "Sire":"Distorted Humor",
+    "Dam":"Tar Heel Mom",
+    "Damsire":"Flatter",
+    "Location":"KY",
+    "Trainer":"James Lawrence, II",
+    "Owner":"Matthew Schera",
+    "Breeder":"Upson Downs Farm & WinStar Farm LLC"
+  },
+  {
+    "Horse":"Vulcan's Forge",
+    "Sire":"Giant's Causeway",
+    "Dam":"Possibly a Ten",
+    "Damsire":"Seeking the Gold",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Heiligbrodt, L. William, Heiligbrodt, Corinne and Team Valor International",
+    "Breeder":"Gabriel Duignan, Crosshaven Bloodstock & Petaluma Bloodstock"
+  },
+  {
+    "Horse":"Walk Out",
+    "Sire":"Curlin",
+    "Dam":"Cheryl's Sister",
+    "Damsire":"Dixieland Band",
+    "Location":"KY",
+    "Trainer":"Steven Asmussen",
+    "Owner":"Calumet Farm",
+    "Breeder":"Cardinal Farm LLC"
+  },
+  {
+    "Horse":"Westfest",
+    "Sire":"Unbridled's Song",
+    "Dam":"Dr. Zic",
+    "Damsire":"Milwaukee Brew",
+    "Location":"KY",
+    "Trainer":"Bob Baffert",
+    "Owner":"West, Gary and Mary",
+    "Breeder":"SF Bloodstock"
+  },
+  {
+    "Horse":"Wheels Up Now",
+    "Sire":"Smart Strike",
+    "Dam":"First Passage",
+    "Damsire":"Giant's Causeway",
+    "Location":"KY",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"West Point Thoroughbreds and Chester Thoroughbreds LLC",
+    "Breeder":"AR Enterprises LLC"
+  },
+  {
+    "Horse":"Whipsaw",
+    "Sire":"Drosselmeyer",
+    "Dam":"Forest Jazzy",
+    "Damsire":"Forestry",
+    "Location":"KY",
+    "Trainer":"Michael Maker",
+    "Owner":"Ramsey, Kenneth L. and Sarah K.",
+    "Breeder":"Dividing Ridge Farm & Strongheart Farm"
+  },
+  {
+    "Horse":"Whitmore",
+    "Sire":"Pleasantly Perfect",
+    "Dam":"Melody's Spirit",
+    "Damsire":"Scat Daddy",
+    "Location":"KY",
+    "Trainer":"Ron Moquett",
+    "Owner":"LaPenta, Robert V., Rosenblum, Harry T. and Southern Springs Stables",
+    "Breeder":"John Liviakis"
+  },
+  {
+    "Horse":"Who's Out",
+    "Sire":"Tale of Ekati",
+    "Dam":"Shine Forth",
+    "Damsire":"Carson City",
+    "Location":"KY",
+    "Trainer":"Jerry Hollendorfer",
+    "Owner":"Hollendorfer, Jerry and M Racing",
+    "Breeder":"John R. Penn"
+  },
+  {
+    "Horse":"Wild About Deb",
+    "Sire":"Eskendereya",
+    "Dam":"Smarty Deb",
+    "Damsire":"Smart Strike",
+    "Location":"KY",
+    "Trainer":"Philip D'Amato",
+    "Owner":"Marisa Lizza Racing",
+    "Breeder":"Northwest Farms LLC"
+  },
+  {
+    "Horse":"Williamsburg",
+    "Sire":"Too Much Bling",
+    "Dam":"La Petite Justice",
+    "Damsire":"Lit de Justice",
+    "Location":"LA",
+    "Trainer":"Scott Lake",
+    "Owner":"Tigertail Ranch",
+    "Breeder":"Tigertail Ranch"
+  },
+  {
+    "Horse":"Wine Not",
+    "Sire":"First Dude",
+    "Dam":"Simmerette",
+    "Damsire":"El Prado (IRE)",
+    "Location":"NY",
+    "Trainer":"Thomas Albertrani",
+    "Owner":"West Point Thoroughbreds",
+    "Breeder":"Frank Hopewell & Runner's Dream Farm"
+  },
+  {
+    "Horse":"Z Royal",
+    "Sire":"Eskendereya",
+    "Dam":"Joanne Jubilation",
+    "Damsire":"Monarchos",
+    "Location":"KY",
+    "Trainer":"D. Wayne Lukas",
+    "Owner":"Zayat Stables, LLC",
+    "Breeder":"Zayat Stables LLC"
+  },
+  {
+    "Horse":"Zapperini",
+    "Sire":"Ghostzapper",
+    "Dam":"Bobby's Babe",
+    "Damsire":"Smart Strike",
+    "Location":"KY",
+    "Trainer":"Greg Foley",
+    "Owner":"Lloyd Madison Farms, IV LLC",
+    "Breeder":"Lloyd Madison IV, LLC"
+  },
+  {
+    "Horse":"Ziconic",
+    "Sire":"Tapit",
+    "Dam":"Zenyatta",
+    "Damsire":"Street Cry (IRE)",
+    "Location":"KY",
+    "Trainer":"John Shirreffs",
+    "Owner":"Moss, Mr. and Mrs. Jerome S.",
+    "Breeder":"Mr. and Mrs. J. S. Moss"
+  },
+  {
+    "Horse":"Zulu",
+    "Sire":"Bernardini",
+    "Dam":"Temporada",
+    "Damsire":"Summer Squall",
+    "Location":"KY",
+    "Trainer":"Todd Pletcher",
+    "Owner":"Stonestreet Stables LLC, Magnier, Susan., Tabor, Michael B. and Smith, Derrick",
+    "Breeder":"Ron Magers & Ronald Marcocchio"
+  },
+  {
+    "Horse":"Zulu Alpha",
+    "Sire":"Street Cry (IRE)",
+    "Dam":"Zori",
+    "Damsire":"A.P. Indy",
+    "Location":"KY",
+    "Trainer":"Dermot Weld",
+    "Owner":"Calumet Farm",
+    "Breeder":"Calumet Farm"
+  }
+]
